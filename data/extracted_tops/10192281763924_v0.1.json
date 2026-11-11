@@ -1,0 +1,49 @@
+{
+  "product_id": "10192281763924",
+  "title": "Quiny Long Sleeve Shirt Black Check",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "361287159954986676d0c5fcd1011c28f0da3e8961aac3e10a5e32bac824d760",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-10-17T03:33:31.857203+00:00",
+  "attributes": {
+    "top_type": "button_down_shirt",
+    "neckline": "collared",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "black",
+    "color_secondary": "unknown",
+    "pattern": "plaid",
+    "closure": "button_front",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

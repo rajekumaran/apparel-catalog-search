@@ -1,0 +1,133 @@
+{
+  "product_id": "10224375103572",
+  "title": "Eliena Maxi Skirt Leopard",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "ae0787edaca9342ecadec346271b3192c22a8749d1ab349991a96db714c0a47c",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:22:57.325374+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Eliena Maxi Skirt Leopard",
+    "Description": "Low-rise maxi skirt in leopard print with side zip\nNon-stretch material, fully lined\nMain:\n100% polyester, Lining: 96% polyester 4% elastane\nCold gentle machine wash",
+    "Material": "100% polyester, Lining: 96% polyester 4% elastane",
+    "Fit": "Low-rise",
+    "Color": "Leopard"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "skirt",
+        "source_field": "Title",
+        "quote": "Eliena Maxi Skirt Leopard"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Low-rise maxi skirt in leopard print with side zip"
+      }
+    ],
+    "skirt_length": [
+      {
+        "value": "maxi",
+        "source_field": "Description",
+        "quote": "Low-rise maxi skirt in leopard print with side zip"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "polyester",
+        "source_field": "Material",
+        "quote": "100% polyester, Lining: 96% polyester 4% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material, fully lined"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "Non-stretch material, fully lined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "animal_print",
+        "source_field": "Description",
+        "quote": "Low-rise maxi skirt in leopard print with side zip"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "low",
+    "pant_length": "unknown",
+    "skirt_length": "maxi",
+    "leg_shape": "unknown",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "polyester",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "machine_washable",
+    "color_primary": "unknown",
+    "color_secondary": "unknown",
+    "pattern": "animal_print",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

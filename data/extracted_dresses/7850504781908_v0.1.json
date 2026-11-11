@@ -1,0 +1,142 @@
+{
+  "product_id": "7850504781908",
+  "title": "Alanah Mini Dress Blue Ditsy",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "258ef38474bb69364a2ef6c2f1fb5250af8b07c4b0964ad5c93802f1289fa150",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:33:22.817809+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Alanah Mini Dress Blue Ditsy",
+    "Description": "Mini dress with lace trim & square neckline\nFloral print, relaxed fit\nNon-stretch material, fully lined\nMain & lining: 100% cotton\nCold hand wash",
+    "Material": "Main & lining: 100% cotton",
+    "Fit": "relaxed fit",
+    "Color": "Blue Ditsy"
+  },
+  "evidence": {
+    "dress_length": [
+      {
+        "value": "mini",
+        "source_field": "Title",
+        "quote": "Alanah Mini Dress Blue Ditsy"
+      },
+      {
+        "value": "mini",
+        "source_field": "Description",
+        "quote": "Mini dress with lace trim & square neckline"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "square",
+        "source_field": "Description",
+        "quote": "square neckline"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "Main & lining: 100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Blue Ditsy"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "floral",
+        "source_field": "Description",
+        "quote": "Floral print"
+      }
+    ],
+    "embellishments": [
+      {
+        "value": "lace_trim",
+        "source_field": "Description",
+        "quote": "Mini dress with lace trim & square neckline"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "mini",
+    "silhouette": "unknown",
+    "neckline": "square",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "fit": "relaxed",
+    "waist_position": "unknown",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "floral",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "lace_trim"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

@@ -1,0 +1,207 @@
+{
+  "product_id": "7894587277396",
+  "title": "Bambalina Babydoll Mini Dress Brown Stripe",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "b283ded41e01e49d9c7b7d1cdfa38c36b6958e3348aede381afc3e5dcab4260a",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:33:20.388369+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Bambalina Babydoll Mini Dress Brown Stripe",
+    "Description": "Babydoll mini dress in stripe print with tie detail\nSquare neckline, button-up closure, twin hip pockets, fixed straps, relaxed fit\nNon-stretch material, unlined\n50% cotton 50% polyester\nCold hand wash",
+    "Material": "50% cotton 50% polyester",
+    "Fit": "relaxed fit",
+    "Color": "Brown Stripe"
+  },
+  "evidence": {
+    "dress_type": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Babydoll mini dress"
+      }
+    ],
+    "dress_length": [
+      {
+        "value": "mini",
+        "source_field": "Description",
+        "quote": "Babydoll mini dress"
+      }
+    ],
+    "silhouette": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Babydoll mini dress"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "square",
+        "source_field": "Description",
+        "quote": "Square neckline"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "sleeveless",
+        "source_field": "Description",
+        "quote": "fixed straps"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "50% cotton 50% polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Brown Stripe"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "stripe",
+        "source_field": "Title",
+        "quote": "Brown Stripe"
+      },
+      {
+        "value": "stripe",
+        "source_field": "Description",
+        "quote": "stripe print"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button",
+        "source_field": "Description",
+        "quote": "button-up closure"
+      }
+    ],
+    "pockets": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "twin hip pockets"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "other",
+    "dress_length": "mini",
+    "silhouette": "other",
+    "neckline": "square",
+    "sleeve_length": "sleeveless",
+    "sleeve_style": "unknown",
+    "fit": "relaxed",
+    "waist_position": "unknown",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "stripe",
+    "closure": [
+      "button"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "yes",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "waist_position",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Description",
+        "quote": "Babydoll mini dress"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "dress_type",
+      "rejected_evidence": {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Babydoll mini dress"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    },
+    {
+      "attribute": "dress_length",
+      "rejected_evidence": {
+        "value": "mini",
+        "source_field": "Title",
+        "quote": "Babydoll mini dress"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    },
+    {
+      "attribute": "silhouette",
+      "rejected_evidence": {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Babydoll mini dress"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

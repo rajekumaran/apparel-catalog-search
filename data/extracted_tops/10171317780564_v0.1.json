@@ -1,0 +1,151 @@
+{
+  "product_id": "10171317780564",
+  "title": "Kasper Cinched Tank Top Espresso / Butter",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "761de86ee6860f18bcbaa6befcccdcc1ec052b8a1e899978aff9ee11cd427481",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:21:32.110066+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Kasper Cinched Tank Top Espresso / Butter",
+    "Description": "Contrast tank top with cinched detail\nScoop neckline, fixed straps, soft fabric\nGood stretch, fully lined\nMain & lining: 87% nylon 13% elastane\nCold gentle machine wash",
+    "Material": "Main & lining: 87% nylon 13% elastane",
+    "Fit": "Fitted",
+    "Color": "Espresso / butter"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "tank",
+        "source_field": "Title",
+        "quote": "Kasper Cinched Tank Top Espresso / Butter"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "scoop",
+        "source_field": "Description",
+        "quote": "Scoop neckline, fixed straps, soft fabric"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "sleeveless",
+        "source_field": "Description",
+        "quote": "Contrast tank top with cinched detail"
+      }
+    ],
+    "top_length": [
+      {
+        "value": "regular",
+        "source_field": "Title",
+        "quote": "Kasper Cinched Tank Top Espresso / Butter"
+      }
+    ],
+    "fit": [
+      {
+        "value": "fitted",
+        "source_field": "Fit",
+        "quote": "Fitted"
+      }
+    ],
+    "waist_style": [
+      {
+        "value": "cinched",
+        "source_field": "Title",
+        "quote": "Kasper Cinched Tank Top Espresso / Butter"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main & lining: 87% nylon 13% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch, fully lined"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "Good stretch, fully lined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Espresso / butter"
+      }
+    ],
+    "color_secondary": [
+      {
+        "value": "beige_neutral",
+        "source_field": "Color",
+        "quote": "Espresso / butter"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Title",
+        "quote": "Kasper Cinched Tank Top Espresso / Butter"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "tank",
+    "neckline": "scoop",
+    "sleeve_length": "sleeveless",
+    "sleeve_style": "unknown",
+    "top_length": "regular",
+    "hem_style": "unknown",
+    "fit": "fitted",
+    "silhouette": "unknown",
+    "waist_style": "cinched",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "machine_washable",
+    "color_primary": "brown",
+    "color_secondary": "beige_neutral",
+    "pattern": "solid",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

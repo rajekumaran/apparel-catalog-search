@@ -1,0 +1,49 @@
+{
+  "product_id": "10184948088916",
+  "title": "Kaylea Cinched Waist V Neck Knit Sweater Grey / Yellow",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "48eeb03f07dbc5dca85f0a2bad212b419f9f12fbe256992d3fe1e11e3fe60f1f",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-10-17T03:33:23.335024+00:00",
+  "attributes": {
+    "top_type": "sweater",
+    "neckline": "v_neck",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "fitted",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "gray",
+    "color_secondary": "yellow",
+    "pattern": "solid",
+    "closure": "pullover",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

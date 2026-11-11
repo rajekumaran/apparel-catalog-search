@@ -1,0 +1,46 @@
+{
+  "product_id": "10192280780884",
+  "title": "Big Moves Funnel Neck Asymmetrical Top Brown",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "attributes": {
+    "top_type": "other",
+    "neckline": "mock",
+    "sleeve_length": "cap",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "asymmetric",
+    "fit": "relaxed",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "opaque",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "brown",
+    "color_secondary": "none",
+    "pattern": "solid",
+    "closure": "button_front",
+    "embellishments": [
+      "none"
+    ],
+    "shoulder_style": "regular",
+    "collar_type": "none",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

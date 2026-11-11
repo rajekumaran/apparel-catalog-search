@@ -1,0 +1,49 @@
+{
+  "product_id": "10249205973076",
+  "title": "Settle Down Long Sleeve Raglan Top Blue / White",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "614d1e4883e869a451681747009ff4394016ec92a0595d7755421f8bc3dd3432",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-10-17T03:33:41.534282+00:00",
+  "attributes": {
+    "top_type": "other",
+    "neckline": "crew",
+    "sleeve_length": "long",
+    "sleeve_style": "raglan",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "blue",
+    "color_secondary": "white",
+    "pattern": "solid",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

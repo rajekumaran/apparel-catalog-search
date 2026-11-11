@@ -1,0 +1,171 @@
+{
+  "product_id": "10250817503316",
+  "title": "Harleah Wide Cargo Fleece Shorts Khaki",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "58b346a5f9f578e1acb7f87941a1dd0e9facfac79f7e5a05f995f6f431030e98",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:23:15.379070+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Harleah Wide Cargo Fleece Shorts Khaki",
+    "Description": "Mid-rise wide cargo fleece shorts\nElasticated waist, twin pockets\nNon-stretch material, unlined\n55% cotton 45% polyester\nCold gentle machine wash",
+    "Material": "55% cotton 45% polyester",
+    "Fit": "Mid-rise",
+    "Color": "Khaki"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "shorts",
+        "source_field": "Description",
+        "quote": "Mid-rise wide cargo fleece shorts"
+      }
+    ],
+    "rise": [
+      {
+        "value": "mid",
+        "source_field": "Description",
+        "quote": "Mid-rise wide cargo fleece shorts"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "short",
+        "source_field": "Description",
+        "quote": "Mid-rise wide cargo fleece shorts"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "wide",
+        "source_field": "Title",
+        "quote": "Harleah Wide Cargo Fleece Shorts Khaki"
+      },
+      {
+        "value": "wide",
+        "source_field": "Description",
+        "quote": "Mid-rise wide cargo fleece shorts"
+      }
+    ],
+    "waistband_style": [
+      {
+        "value": "elastic",
+        "source_field": "Description",
+        "quote": "Elasticated waist"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "55% cotton 45% polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "beige_neutral",
+        "source_field": "Color",
+        "quote": "Khaki"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "shorts",
+    "rise": "mid",
+    "pant_length": "short",
+    "skirt_length": "unknown",
+    "leg_shape": "wide",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "elastic"
+    ],
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "beige_neutral",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "bottom_type",
+      "rejected_evidence": {
+        "value": "shorts",
+        "source_field": "Title",
+        "quote": "Mid-rise wide cargo fleece shorts"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    },
+    {
+      "attribute": "pant_length",
+      "rejected_evidence": {
+        "value": "short",
+        "source_field": "Title",
+        "quote": "Mid-rise wide cargo fleece shorts"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "product_id": "10205525737556",
+  "title": "Opollo V Neck Jumper Grey Marle",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "2dc36fff1520966fa130c4336287bacebb6e5fe52a15f05b5b632002eb7d508a",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:21:43.512997+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Opollo V Neck Jumper Grey Marle",
+    "Description": "Oversized v-neck jumper\nRibbed detail, drop shoulders\nNon-stretch material, unlined\nPrincess Polly Lower Impact\nMain: 100% reclaimed cotton, Trim: 70% cotton 30% polyester\nCold gentle machine wash",
+    "Material": "Main: 100% reclaimed cotton, Trim: 70% cotton 30% polyester",
+    "Fit": "Oversized",
+    "Color": "Grey Marle"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "sweater",
+        "source_field": "Title",
+        "quote": "Opollo V Neck Jumper Grey Marle"
+      },
+      {
+        "value": "sweater",
+        "source_field": "Description",
+        "quote": "Oversized v-neck jumper"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "v_neck",
+        "source_field": "Title",
+        "quote": "Opollo V Neck Jumper Grey Marle"
+      },
+      {
+        "value": "v_neck",
+        "source_field": "Description",
+        "quote": "Oversized v-neck jumper"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Description",
+        "quote": "drop shoulders"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "Oversized v-neck jumper"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "Main: 100% reclaimed cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "texture": [
+      {
+        "value": "ribbed",
+        "source_field": "Description",
+        "quote": "Ribbed detail"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "gray",
+        "source_field": "Color",
+        "quote": "Grey Marle"
+      }
+    ],
+    "closure": [
+      {
+        "value": "pullover",
+        "source_field": "Title",
+        "quote": "Opollo V Neck Jumper Grey Marle"
+      }
+    ],
+    "shoulder_style": [
+      {
+        "value": "drop_shoulder",
+        "source_field": "Description",
+        "quote": "drop shoulders"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "sweater",
+    "neckline": "v_neck",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "ribbed"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "gray",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "pullover",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "drop_shoulder",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

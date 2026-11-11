@@ -1,0 +1,176 @@
+{
+  "product_id": "10205312188500",
+  "title": "Aeriella Long Sleeve Raglan V Neck Top Blue / Yellow Stripe",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "76b09c0a724ab82b8e3b2924a4a9912e88c2cf973845db536a6485d85daaca4c",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:23.352716+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Aeriella Long Sleeve Raglan V Neck Top Blue / Yellow Stripe",
+    "Description": "Long sleeve raglan v-neck top\nContrast detail, slightly cropped\nGood stretch, unlined\n97% cotton 3% elastane\nCold gentle machine wash",
+    "Material": "97% cotton 3% elastane",
+    "Fit": "Fitted",
+    "Color": "Blue / Yellow Stripe"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Aeriella Long Sleeve Raglan V Neck Top Blue / Yellow Stripe"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "v_neck",
+        "source_field": "Title",
+        "quote": "Aeriella Long Sleeve Raglan V Neck Top Blue / Yellow Stripe"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Title",
+        "quote": "Aeriella Long Sleeve Raglan V Neck Top Blue / Yellow Stripe"
+      }
+    ],
+    "sleeve_style": [
+      {
+        "value": "raglan",
+        "source_field": "Title",
+        "quote": "Aeriella Long Sleeve Raglan V Neck Top Blue / Yellow Stripe"
+      }
+    ],
+    "top_length": [
+      {
+        "value": "cropped",
+        "source_field": "Description",
+        "quote": "slightly cropped"
+      }
+    ],
+    "fit": [
+      {
+        "value": "fitted",
+        "source_field": "Fit",
+        "quote": "Fitted"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "97% cotton 3% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Blue / Yellow Stripe"
+      }
+    ],
+    "color_secondary": [
+      {
+        "value": "yellow",
+        "source_field": "Color",
+        "quote": "Blue / Yellow Stripe"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "stripe",
+        "source_field": "Title",
+        "quote": "Blue / Yellow Stripe"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "other",
+    "neckline": "v_neck",
+    "sleeve_length": "long",
+    "sleeve_style": "raglan",
+    "top_length": "cropped",
+    "hem_style": "unknown",
+    "fit": "fitted",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "blue",
+    "color_secondary": "yellow",
+    "pattern": "stripe",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "neckline",
+      "rejected_evidence": {
+        "value": "Description",
+        "quote": "Long sleeve raglan v-neck top"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "sleeve_length",
+      "rejected_evidence": {
+        "value": "Description",
+        "quote": "Long sleeve raglan v-neck top"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "sleeve_style",
+      "rejected_evidence": {
+        "value": "Description",
+        "quote": "Long sleeve raglan v-neck top"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

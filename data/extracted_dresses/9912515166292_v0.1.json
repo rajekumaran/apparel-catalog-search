@@ -1,0 +1,70 @@
+{
+  "product_id": "9912515166292",
+  "title": "Krystyna Off Shoulder Ruched Mesh Maxi Dress Berry",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "e65f3534ada2670dcf07014bb6dd17e2bef7c99ea96d5e43be576ad405acebde",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-10-17T03:33:57.676217+00:00",
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "maxi",
+    "silhouette": "unknown",
+    "neckline": "off_shoulder",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "fit": "fitted",
+    "waist_position": "unknown",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "mesh",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "other",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

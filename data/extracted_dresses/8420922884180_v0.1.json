@@ -1,0 +1,149 @@
+{
+  "product_id": "8420922884180",
+  "title": "Dreamboat Pleated Mini Dress Yellow",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "1c6cfb2a0cb8105a112792da19024787ebfa5a0d795021665b3b6d87f6e7cdce",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:33:01.922900+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Dreamboat Pleated Mini Dress Yellow",
+    "Description": "Pleated sleeveless mini dress\nCrew neckline, keyhole at back with button closure, relaxed fit\nNon-stretch material, fully lined\nMain & lining: 100% cotton\nCold hand wash",
+    "Material": "Main & lining: 100% cotton",
+    "Fit": "relaxed fit",
+    "Color": "Yellow"
+  },
+  "evidence": {
+    "dress_length": [
+      {
+        "value": "mini",
+        "source_field": "Title",
+        "quote": "Dreamboat Pleated Mini Dress Yellow"
+      },
+      {
+        "value": "mini",
+        "source_field": "Description",
+        "quote": "Pleated sleeveless mini dress"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "crew",
+        "source_field": "Description",
+        "quote": "Crew neckline"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "sleeveless",
+        "source_field": "Description",
+        "quote": "Pleated sleeveless mini dress"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "Main & lining: 100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "yellow",
+        "source_field": "Color",
+        "quote": "Yellow"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Pleated"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button",
+        "source_field": "Description",
+        "quote": "keyhole at back with button closure"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "mini",
+    "silhouette": "unknown",
+    "neckline": "crew",
+    "sleeve_length": "sleeveless",
+    "sleeve_style": "unknown",
+    "fit": "relaxed",
+    "waist_position": "unknown",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "yellow",
+    "color_secondary": "unknown",
+    "pattern": "other",
+    "closure": [
+      "button"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

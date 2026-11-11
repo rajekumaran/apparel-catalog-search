@@ -1,0 +1,149 @@
+{
+  "product_id": "10173549445204",
+  "title": "Kellenna Straight Leg Low Rise Cargo Pants Khaki",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "06c2e78cf14850664f72011bc6ab0ae89050c8839c159b6274403e703e01778b",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:22:42.565898+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Kellenna Straight Leg Low Rise Cargo Pants Khaki",
+    "Description": "Straight-leg low-rise cargo pants\nDouble buttons, adjustable straps at waist, zip closure, four pockets\nNon-stretch material, unlined\n100% cotton\nCold gentle machine wash",
+    "Material": "100% cotton",
+    "Fit": "low-rise",
+    "Color": "Khaki"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "cargo_pants",
+        "source_field": "Title",
+        "quote": "Kellenna Straight Leg Low Rise Cargo Pants Khaki"
+      },
+      {
+        "value": "cargo_pants",
+        "source_field": "Description",
+        "quote": "Straight-leg low-rise cargo pants"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Fit",
+        "quote": "low-rise"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "full_length",
+        "source_field": "Description",
+        "quote": "Straight-leg"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "straight",
+        "source_field": "Title",
+        "quote": "Straight Leg"
+      },
+      {
+        "value": "straight",
+        "source_field": "Description",
+        "quote": "Straight-leg"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "beige_neutral",
+        "source_field": "Color",
+        "quote": "Khaki"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button",
+        "source_field": "Description",
+        "quote": "Double buttons"
+      },
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "cargo_pants",
+    "rise": "low",
+    "pant_length": "full_length",
+    "skirt_length": "unknown",
+    "leg_shape": "straight",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "beige_neutral",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "button",
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

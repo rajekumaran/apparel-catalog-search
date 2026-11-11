@@ -1,0 +1,170 @@
+{
+  "product_id": "10249281699924",
+  "title": "Hudsen Longline Cargo Shorts Turquoise",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "39893cb8caa3854f25f7e36737427990430ab1872d8a95dabeaf4626053f381d",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:31:51.654165+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Hudsen Longline Cargo Shorts Turquoise",
+    "Description": "Longline cargo shorts with low-rise baggy fit\nBelt loops, button & zip closure, four pockets, adjustable straps at hem\nNon-stretch material, unlined\n100% reclaimed cotton\nCold gentle machine wash\nSize up for an oversized fit",
+    "Material": "100% reclaimed cotton",
+    "Fit": "low-rise | baggy fit | oversized fit",
+    "Color": "Turquoise"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "cargo_pants",
+        "source_field": "Title",
+        "quote": "Hudsen Longline Cargo Shorts Turquoise"
+      },
+      {
+        "value": "cargo_pants",
+        "source_field": "Description",
+        "quote": "Longline cargo shorts with low-rise baggy fit"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Longline cargo shorts with low-rise baggy fit"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "above_knee",
+        "source_field": "Title",
+        "quote": "Hudsen Longline Cargo Shorts Turquoise"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Fit",
+        "quote": "low-rise | baggy fit | oversized fit"
+      }
+    ],
+    "waistband_style": [
+      {
+        "value": "fixed",
+        "source_field": "Description",
+        "quote": "Belt loops"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "100% reclaimed cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "other",
+        "source_field": "Color",
+        "quote": "Turquoise"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button",
+        "source_field": "Description",
+        "quote": "button & zip closure"
+      },
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "button & zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "cargo_pants",
+    "rise": "low",
+    "pant_length": "above_knee",
+    "skirt_length": "unknown",
+    "leg_shape": "unknown",
+    "fit": "oversized",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "fixed"
+    ],
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "other",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "button",
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "leg_shape",
+      "rejected_evidence": {
+        "value": "baggy",
+        "source_field": "Description",
+        "quote": "Longline cargo shorts with low-rise baggy fit"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "hem_style",
+      "rejected_evidence": {
+        "value": "adjustable",
+        "source_field": "Description",
+        "quote": "adjustable straps at hem"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "product_id": "10235142963284",
+  "title": "Briellah Layered 3/4 Sleeve Top Grey Marle / Yellow",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "ece16818499ebc6365a92c756265899f03076096ff914ee423eb8411146e834e",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:32.262869+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Briellah Layered 3/4 Sleeve Top Grey Marle / Yellow",
+    "Description": "Layered 3/4 sleeve top with contrast detail\nGood stretch, unlined\nPrincess Polly Lower Impact\n60% reclaimed cotton 37% polyester 3% elastane\nCold gentle machine wash",
+    "Material": "60% reclaimed cotton 37% polyester 3% elastane",
+    "Fit": "Fitted",
+    "Color": "Grey Marle / Yellow"
+  },
+  "evidence": {
+    "fit": [
+      {
+        "value": "fitted",
+        "source_field": "Fit",
+        "quote": "Fitted"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "60% reclaimed cotton 37% polyester 3% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "gray",
+        "source_field": "Color",
+        "quote": "Grey Marle"
+      }
+    ],
+    "color_secondary": [
+      {
+        "value": "yellow",
+        "source_field": "Color",
+        "quote": "Yellow"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Grey Marle"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "unknown",
+    "neckline": "unknown",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "fitted",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "gray",
+    "color_secondary": "yellow",
+    "pattern": "other",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "top_type",
+      "rejected_evidence": {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Layered 3/4 sleeve top"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    },
+    {
+      "attribute": "sleeve_length",
+      "rejected_evidence": {
+        "value": "three_quarter",
+        "source_field": "Title",
+        "quote": "Layered 3/4 sleeve top"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

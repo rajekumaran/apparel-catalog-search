@@ -1,0 +1,156 @@
+{
+  "product_id": "10192280256596",
+  "title": "Darnelle Button Up Knit Cardigan Mint Chocolate Stripe",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "ad68527a39df7db0a0566d4bb1db15753fedb79d23fd27a9a37646f89510474a",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:21:48.994083+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Darnelle Button Up Knit Cardigan Mint Chocolate Stripe",
+    "Description": "Long-sleeve knit cardigan in stripe print with button-up detail\nCrew neckline, ribbed hem detail, drop shoulders, oversized fit\nGood stretch, unlined\nPrincess Polly Lower Impact\n52% reclaimed polyester 30% polyester 15% acrylic 3% spandex\nCold hand wash",
+    "Material": "52% reclaimed polyester 30% polyester 15% acrylic 3% spandex",
+    "Fit": "oversized fit",
+    "Color": "Mint Chocolate Stripe"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "cardigan",
+        "source_field": "Title",
+        "quote": "Darnelle Button Up Knit Cardigan Mint Chocolate Stripe"
+      },
+      {
+        "value": "cardigan",
+        "source_field": "Description",
+        "quote": "Long-sleeve knit cardigan in stripe print with button-up detail"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "crew",
+        "source_field": "Description",
+        "quote": "Crew neckline"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Description",
+        "quote": "Long-sleeve knit cardigan"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "oversized fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "52% reclaimed polyester 30% polyester 15% acrylic 3% spandex"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "texture": [
+      {
+        "value": "ribbed",
+        "source_field": "Description",
+        "quote": "ribbed hem detail"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "hand_wash",
+        "source_field": "Description",
+        "quote": "Cold hand wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "green",
+        "source_field": "Color",
+        "quote": "Mint Chocolate Stripe"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "stripe",
+        "source_field": "Description",
+        "quote": "stripe print"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button_front",
+        "source_field": "Description",
+        "quote": "button-up detail"
+      }
+    ],
+    "shoulder_style": [
+      {
+        "value": "drop_shoulder",
+        "source_field": "Description",
+        "quote": "drop shoulders"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "cardigan",
+    "neckline": "crew",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "ribbed"
+    ],
+    "lined": "no",
+    "care": "hand_wash",
+    "color_primary": "green",
+    "color_secondary": "unknown",
+    "pattern": "stripe",
+    "closure": "button_front",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "drop_shoulder",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

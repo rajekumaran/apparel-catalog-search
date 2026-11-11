@@ -1,0 +1,145 @@
+{
+  "product_id": "10205524754516",
+  "title": "Opollo V Neck Jumper Brown",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "335db98429f928cc3be0d5ef782e2cc698fe613318c5e2294eaea35b1126ac00",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:21:46.140791+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Opollo V Neck Jumper Brown",
+    "Description": "Oversized v-neck jumper\nRibbed detail, drop shoulders\nNon-stretch material, unlined\nPrincess Polly Lower Impact\nMain: 100% reclaimed cotton, Trim: 70% cotton 30% polyester\nCold gentle machine wash",
+    "Material": "Main: 100% reclaimed cotton, Trim: 70% cotton 30% polyester",
+    "Fit": "Oversized",
+    "Color": "Brown"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "sweater",
+        "source_field": "Title",
+        "quote": "Opollo V Neck Jumper Brown"
+      },
+      {
+        "value": "sweater",
+        "source_field": "Description",
+        "quote": "Oversized v-neck jumper"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "v_neck",
+        "source_field": "Title",
+        "quote": "Opollo V Neck Jumper Brown"
+      },
+      {
+        "value": "v_neck",
+        "source_field": "Description",
+        "quote": "Oversized v-neck jumper"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Description",
+        "quote": "drop shoulders"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "Oversized v-neck jumper"
+      },
+      {
+        "value": "oversized",
+        "source_field": "Fit",
+        "quote": "Oversized"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 100% reclaimed cotton, Trim: 70% cotton 30% polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "texture": [
+      {
+        "value": "ribbed",
+        "source_field": "Description",
+        "quote": "Ribbed detail"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Brown"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "sweater",
+    "neckline": "v_neck",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "ribbed"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

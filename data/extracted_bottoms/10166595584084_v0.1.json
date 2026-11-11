@@ -1,0 +1,163 @@
+{
+  "product_id": "10166595584084",
+  "title": "Two Lovers Low Rise Pants Chocolate",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "4e805f6f7143323357ef1bc259765e2e06ebb4206222fc3ee25f291593b345a3",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:31.040924+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Two Lovers Low Rise Pants Chocolate",
+    "Description": "Low-rise straight-leg pants\nDouble belt looped waist, hook & invisible zip fastening, twin hip pockets, pleats detail under waist, two faux pockets at back\nNon-stretch material, unlined\n95% polyester 5% elastane\nCold gentle machine wash",
+    "Material": "95% polyester 5% elastane",
+    "Fit": "Low-rise",
+    "Color": "Chocolate"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "trousers",
+        "source_field": "Description",
+        "quote": "Low-rise straight-leg pants"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Low-rise straight-leg pants"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "full_length",
+        "source_field": "Description",
+        "quote": "Low-rise straight-leg pants"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "straight",
+        "source_field": "Description",
+        "quote": "Low-rise straight-leg pants"
+      }
+    ],
+    "waistband_style": [
+      {
+        "value": "fixed",
+        "source_field": "Description",
+        "quote": "Double belt looped waist"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "95% polyester 5% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Chocolate"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Color",
+        "quote": "Chocolate"
+      }
+    ],
+    "closure": [
+      {
+        "value": "hook_and_eye",
+        "source_field": "Description",
+        "quote": "hook & invisible zip fastening"
+      },
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "hook & invisible zip fastening"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "trousers",
+    "rise": "low",
+    "pant_length": "full_length",
+    "skirt_length": "unknown",
+    "leg_shape": "straight",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "fixed"
+    ],
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "hook_and_eye",
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "fit",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Fit",
+        "quote": "Low-rise"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

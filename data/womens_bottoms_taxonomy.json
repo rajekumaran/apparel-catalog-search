@@ -1,0 +1,684 @@
+{
+  "category": "womens_bottoms",
+  "version": "0.1",
+  "notes": [
+    "Every attribute includes 'unknown' so the extractor is never forced to guess.",
+    "selection 'single' means exactly one value; 'multi' means a list of zero or more values.",
+    "Use unknown when evidence is missing; use none only for explicitly supported absence. Never combine unknown, none, or not_applicable with other multi values.",
+    "Use not_applicable only when the known garment type rules out an attribute, such as skirt_length for trousers. Unknown garment type is not evidence of non-applicability.",
+    "pant_length applies to pants, shorts, leggings, and the shorts portion of a skort; skirt_length applies to skirts and the skirt portion of a skort.",
+    "bottom_type identifies the garment; leg_shape describes its cut. Wide-leg trousers remain trousers with leg_shape wide.",
+    "Prefer a specific bottom_type when explicit, such as cargo_pants or joggers. Use other for supported types outside the vocabulary.",
+    "For fabric_type prefer blend for explicitly mixed fibers; do not infer stretch, opacity, or weight from fiber alone.",
+    "Closure is multi so button and zip combinations can be captured. Generic button or zip wording does not establish closure_position.",
+    "Do not infer pockets, belt loops, lining, solid pattern, or single-color construction from silence.",
+    "Only extract facts about the product, not suggested outfits or coordinating items. Subjective occasion and style_tags should be soft ranking boosts.",
+    "Source category Bottoms alone does not verify gender. Apply within the intended womenswear catalog scope.",
+    "Start with priority attributes, then add others as descriptions support them. Preserve exact measurements, fiber percentages, and source metadata separately."
+  ],
+  "priority_attributes": [
+    "bottom_type",
+    "rise",
+    "pant_length",
+    "skirt_length",
+    "leg_shape",
+    "fit",
+    "skirt_silhouette",
+    "fabric_type",
+    "stretch",
+    "pattern",
+    "color_primary",
+    "closure"
+  ],
+  "attributes": {
+    "bottom_type": {
+      "group": "core_style",
+      "selection": "single",
+      "values": [
+        "jeans",
+        "trousers",
+        "chinos",
+        "leggings",
+        "jeggings",
+        "joggers",
+        "sweatpants",
+        "cargo_pants",
+        "culottes",
+        "shorts",
+        "skirt",
+        "skort",
+        "other",
+        "unknown"
+      ]
+    },
+    "rise": {
+      "group": "core_style",
+      "selection": "single",
+      "values": [
+        "low",
+        "mid",
+        "high",
+        "ultra_high",
+        "unknown"
+      ]
+    },
+    "pant_length": {
+      "group": "core_style",
+      "selection": "single",
+      "values": [
+        "full_length",
+        "ankle",
+        "cropped",
+        "capri",
+        "knee",
+        "above_knee",
+        "short",
+        "not_applicable",
+        "unknown"
+      ]
+    },
+    "skirt_length": {
+      "group": "core_style",
+      "selection": "single",
+      "values": [
+        "micro",
+        "mini",
+        "knee",
+        "midi",
+        "maxi",
+        "not_applicable",
+        "unknown"
+      ]
+    },
+    "leg_shape": {
+      "group": "fit_and_shape",
+      "selection": "single",
+      "values": [
+        "skinny",
+        "slim",
+        "straight",
+        "tapered",
+        "bootcut",
+        "flare",
+        "wide",
+        "balloon",
+        "barrel",
+        "harem",
+        "other",
+        "not_applicable",
+        "unknown"
+      ]
+    },
+    "fit": {
+      "group": "fit_and_shape",
+      "selection": "single",
+      "values": [
+        "fitted",
+        "slim",
+        "regular",
+        "relaxed",
+        "oversized",
+        "unknown"
+      ]
+    },
+    "skirt_silhouette": {
+      "group": "fit_and_shape",
+      "selection": "single",
+      "values": [
+        "a_line",
+        "pencil",
+        "straight",
+        "bodycon",
+        "pleated",
+        "circle",
+        "wrap",
+        "tiered",
+        "mermaid",
+        "bubble",
+        "other",
+        "not_applicable",
+        "unknown"
+      ]
+    },
+    "waistband_style": {
+      "group": "fit_and_shape",
+      "selection": "multi",
+      "values": [
+        "fixed",
+        "elastic",
+        "partial_elastic",
+        "drawstring",
+        "paperbag",
+        "foldover",
+        "smocked",
+        "other",
+        "unknown"
+      ]
+    },
+    "fabric_type": {
+      "group": "fabric_and_feel",
+      "selection": "single",
+      "values": [
+        "cotton",
+        "linen",
+        "silk",
+        "satin",
+        "knit",
+        "jersey",
+        "rib",
+        "chiffon",
+        "denim",
+        "wool",
+        "cashmere",
+        "polyester",
+        "rayon_viscose",
+        "fleece",
+        "lace",
+        "mesh",
+        "blend",
+        "other",
+        "corduroy",
+        "twill",
+        "nylon",
+        "leather",
+        "faux_leather",
+        "velvet",
+        "unknown"
+      ]
+    },
+    "stretch": {
+      "group": "fabric_and_feel",
+      "selection": "single",
+      "values": [
+        "none",
+        "slight",
+        "stretchy",
+        "very_stretchy",
+        "unknown"
+      ]
+    },
+    "sheerness": {
+      "group": "fabric_and_feel",
+      "selection": "single",
+      "values": [
+        "opaque",
+        "semi_sheer",
+        "sheer",
+        "unknown"
+      ]
+    },
+    "fabric_weight": {
+      "group": "fabric_and_feel",
+      "selection": "single",
+      "values": [
+        "lightweight",
+        "midweight",
+        "heavyweight",
+        "unknown"
+      ]
+    },
+    "texture": {
+      "group": "fabric_and_feel",
+      "selection": "multi",
+      "values": [
+        "smooth",
+        "textured",
+        "fuzzy",
+        "ribbed",
+        "crinkled",
+        "other",
+        "unknown"
+      ]
+    },
+    "lined": {
+      "group": "fabric_and_feel",
+      "selection": "single",
+      "values": [
+        "yes",
+        "no",
+        "unknown"
+      ]
+    },
+    "care": {
+      "group": "fabric_and_feel",
+      "selection": "single",
+      "values": [
+        "machine_washable",
+        "hand_wash",
+        "dry_clean",
+        "unknown"
+      ]
+    },
+    "color_primary": {
+      "group": "pattern_and_color",
+      "selection": "single",
+      "values": [
+        "black",
+        "white",
+        "gray",
+        "beige_neutral",
+        "brown",
+        "red",
+        "pink",
+        "orange",
+        "yellow",
+        "green",
+        "blue",
+        "purple",
+        "multicolor",
+        "other",
+        "unknown"
+      ]
+    },
+    "color_secondary": {
+      "group": "pattern_and_color",
+      "selection": "single",
+      "values": [
+        "none",
+        "black",
+        "white",
+        "gray",
+        "beige_neutral",
+        "brown",
+        "red",
+        "pink",
+        "orange",
+        "yellow",
+        "green",
+        "blue",
+        "purple",
+        "other",
+        "unknown"
+      ]
+    },
+    "pattern": {
+      "group": "pattern_and_color",
+      "selection": "single",
+      "values": [
+        "solid",
+        "stripe",
+        "floral",
+        "polka_dot",
+        "plaid",
+        "animal_print",
+        "graphic",
+        "tie_dye",
+        "geometric",
+        "color_block",
+        "other",
+        "unknown"
+      ]
+    },
+    "closure": {
+      "group": "details_and_construction",
+      "selection": "multi",
+      "values": [
+        "pull_on",
+        "zip",
+        "button",
+        "button_and_zip",
+        "hook_and_eye",
+        "snap",
+        "tie",
+        "wrap",
+        "other",
+        "unknown"
+      ]
+    },
+    "closure_position": {
+      "group": "details_and_construction",
+      "selection": "single",
+      "values": [
+        "front",
+        "side",
+        "back",
+        "not_applicable",
+        "unknown"
+      ]
+    },
+    "pocket_style": {
+      "group": "details_and_construction",
+      "selection": "multi",
+      "values": [
+        "slant",
+        "side_seam",
+        "patch",
+        "welt",
+        "cargo",
+        "five_pocket",
+        "zip",
+        "back",
+        "decorative",
+        "none",
+        "other",
+        "unknown"
+      ]
+    },
+    "hem_style": {
+      "group": "details_and_construction",
+      "selection": "multi",
+      "values": [
+        "straight",
+        "cuffed",
+        "rolled",
+        "raw",
+        "frayed",
+        "split",
+        "asymmetric",
+        "scalloped",
+        "ruffle",
+        "elastic",
+        "drawstring",
+        "other",
+        "unknown"
+      ]
+    },
+    "front_detail": {
+      "group": "details_and_construction",
+      "selection": "multi",
+      "values": [
+        "flat_front",
+        "pleated",
+        "pintuck",
+        "gathered",
+        "wrap",
+        "other",
+        "unknown"
+      ]
+    },
+    "slit_position": {
+      "group": "details_and_construction",
+      "selection": "multi",
+      "values": [
+        "front",
+        "side",
+        "back",
+        "none",
+        "not_applicable",
+        "unknown"
+      ]
+    },
+    "belt_loops": {
+      "group": "details_and_construction",
+      "selection": "single",
+      "values": [
+        "yes",
+        "no",
+        "unknown"
+      ]
+    },
+    "belt_included": {
+      "group": "details_and_construction",
+      "selection": "single",
+      "values": [
+        "yes",
+        "no",
+        "unknown"
+      ]
+    },
+    "denim_wash": {
+      "group": "details_and_construction",
+      "selection": "single",
+      "values": [
+        "raw",
+        "dark",
+        "medium",
+        "light",
+        "acid",
+        "washed_black",
+        "colored",
+        "other",
+        "not_applicable",
+        "unknown"
+      ]
+    },
+    "distressing": {
+      "group": "details_and_construction",
+      "selection": "multi",
+      "values": [
+        "ripped",
+        "distressed",
+        "faded",
+        "whiskered",
+        "none",
+        "other",
+        "unknown"
+      ]
+    },
+    "embellishments": {
+      "group": "details_and_construction",
+      "selection": "multi",
+      "values": [
+        "ruffles",
+        "lace_trim",
+        "embroidery",
+        "sequins",
+        "beading",
+        "cutouts",
+        "pleats",
+        "smocking",
+        "bow",
+        "studs",
+        "rhinestones",
+        "contrast_stitching",
+        "none",
+        "other",
+        "unknown"
+      ]
+    },
+    "occasion": {
+      "group": "use_and_occasion",
+      "selection": "multi",
+      "values": [
+        "casual",
+        "work_office",
+        "evening_party",
+        "athletic",
+        "loungewear",
+        "vacation",
+        "unknown"
+      ]
+    },
+    "season": {
+      "group": "use_and_occasion",
+      "selection": "single",
+      "values": [
+        "spring_summer",
+        "fall_winter",
+        "all_season",
+        "unknown"
+      ]
+    },
+    "style_tags": {
+      "group": "use_and_occasion",
+      "selection": "multi",
+      "values": [
+        "classic",
+        "boho",
+        "minimalist",
+        "sporty",
+        "romantic",
+        "edgy",
+        "vintage",
+        "unknown"
+      ]
+    },
+    "maternity": {
+      "group": "use_and_occasion",
+      "selection": "single",
+      "values": [
+        "yes",
+        "no",
+        "unknown"
+      ]
+    }
+  },
+  "catalog_fields_from_source_data": [
+    "product_id",
+    "title",
+    "description",
+    "size_range",
+    "color",
+    "image_url",
+    "product_url",
+    "price",
+    "material",
+    "fit",
+    "retailer",
+    "category",
+    "currency",
+    "available_sizes",
+    "maximum_variant_price",
+    "retrieved_at_utc",
+    "material_source",
+    "fit_source",
+    "color_source"
+  ],
+  "synonyms": {
+    "bottom_type": {
+      "trousers": [
+        "pants",
+        "slacks",
+        "dress pants"
+      ],
+      "jeans": [
+        "denim jeans"
+      ],
+      "leggings": [
+        "tights (when explicitly sold as leggings)"
+      ],
+      "joggers": [
+        "jogger pants"
+      ],
+      "sweatpants": [
+        "sweat pants",
+        "track pants (when explicitly sweatpants)"
+      ],
+      "skort": [
+        "skirt shorts"
+      ],
+      "cargo_pants": [
+        "cargo trousers"
+      ]
+    },
+    "rise": {
+      "low": [
+        "low rise",
+        "low-rise",
+        "low waisted"
+      ],
+      "mid": [
+        "mid rise",
+        "mid-rise",
+        "mid waisted"
+      ],
+      "high": [
+        "high rise",
+        "high-rise",
+        "high waisted"
+      ],
+      "ultra_high": [
+        "ultra high rise",
+        "super high rise"
+      ]
+    },
+    "leg_shape": {
+      "wide": [
+        "wide leg",
+        "wide-leg"
+      ],
+      "bootcut": [
+        "boot cut"
+      ],
+      "flare": [
+        "flared",
+        "bell bottom"
+      ],
+      "straight": [
+        "straight leg"
+      ],
+      "tapered": [
+        "tapered leg"
+      ],
+      "barrel": [
+        "barrel leg"
+      ]
+    },
+    "fit": {
+      "fitted": [
+        "bodycon",
+        "body-hugging",
+        "body hugging",
+        "form-fitting",
+        "form fitting",
+        "snug",
+        "figure-hugging"
+      ],
+      "slim": [
+        "slim fit",
+        "trim"
+      ],
+      "regular": [
+        "classic fit",
+        "standard fit",
+        "true to size"
+      ],
+      "relaxed": [
+        "loose",
+        "easy fit",
+        "comfy fit"
+      ],
+      "oversized": [
+        "baggy",
+        "slouchy",
+        "extra roomy"
+      ]
+    },
+    "pant_length": {
+      "full_length": [
+        "full length"
+      ],
+      "ankle": [
+        "ankle length",
+        "ankle grazer"
+      ],
+      "cropped": [
+        "crop length",
+        "cropped length"
+      ],
+      "capri": [
+        "capri length"
+      ]
+    },
+    "skirt_length": {
+      "micro": [
+        "micro mini"
+      ],
+      "mini": [
+        "mini skirt"
+      ],
+      "midi": [
+        "midi skirt",
+        "mid calf skirt"
+      ],
+      "maxi": [
+        "maxi skirt",
+        "floor length skirt"
+      ]
+    },
+    "closure": {
+      "pull_on": [
+        "pull on",
+        "pull-on"
+      ],
+      "zip": [
+        "zipper closure",
+        "zip fastening"
+      ],
+      "button_and_zip": [
+        "button and zip fastening",
+        "button and zipper closure"
+      ]
+    }
+  }
+}

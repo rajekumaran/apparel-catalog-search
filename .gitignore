@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.duckdb
+*.duckdb.*
+data/*.duckdb
+data/*.duckdb.*
+data/batches/

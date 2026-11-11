@@ -1,0 +1,191 @@
+{
+  "product_id": "10184926101588",
+  "title": "Idolina Frill Asymmetrical Midi Skirt Black",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "d2140a8c750aee9a2072f510c72bfd9b6906d9da8c00b64d5bb9b40455e01c6c",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:20.232585+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Idolina Frill Asymmetrical Midi Skirt Black",
+    "Description": "Frill asymmetrical midi skirt with side zip closure\nNon-stretch material, fully lined\nPrincess Polly Lower Impact\nMain: 100% reclaimed polyester, Lining:100% polyester\nCold gentle machine wash",
+    "Material": "Main: 100% reclaimed polyester, Lining:100% polyester",
+    "Fit": "Slim Fit",
+    "Color": "Black"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "skirt",
+        "source_field": "Description",
+        "quote": "Frill asymmetrical midi skirt"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "not_applicable",
+        "source_field": "Description",
+        "quote": "Frill asymmetrical midi skirt"
+      }
+    ],
+    "skirt_length": [
+      {
+        "value": "midi",
+        "source_field": "Description",
+        "quote": "Frill asymmetrical midi skirt with side zip closure"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Frill asymmetrical midi skirt"
+      }
+    ],
+    "fit": [
+      {
+        "value": "slim",
+        "source_field": "Fit",
+        "quote": "Slim Fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "polyester",
+        "source_field": "Material",
+        "quote": "Main: 100% reclaimed polyester, Lining:100% polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "black",
+        "source_field": "Color",
+        "quote": "Black"
+      }
+    ],
+    "closure": [
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "side zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "unknown",
+    "pant_length": "not_applicable",
+    "skirt_length": "midi",
+    "leg_shape": "other",
+    "fit": "slim",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "polyester",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "machine_washable",
+    "color_primary": "black",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "bottom_type",
+      "rejected_evidence": {
+        "value": "skirt",
+        "source_field": "Title",
+        "quote": "Frill asymmetrical midi skirt"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    },
+    {
+      "attribute": "pant_length",
+      "rejected_evidence": {
+        "value": "not_applicable",
+        "source_field": "Title",
+        "quote": "Frill asymmetrical midi skirt"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    },
+    {
+      "attribute": "skirt_length",
+      "rejected_evidence": {
+        "value": "midi",
+        "source_field": "Title",
+        "quote": "Frill asymmetrical midi skirt with side zip closure"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    },
+    {
+      "attribute": "leg_shape",
+      "rejected_evidence": {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Frill asymmetrical midi skirt"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

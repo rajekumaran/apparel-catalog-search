@@ -1,0 +1,137 @@
+{
+  "product_id": "10241748992084",
+  "title": "Hudsen Longline Cargo Shorts Washed Brown",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "7d44a5fcb836ccc8ea8f292f950a3a7f9fcd7b367d79cf4dc222fd0b83a490da",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:23:32.055800+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Hudsen Longline Cargo Shorts Washed Brown",
+    "Description": "Longline cargo shorts with low-rise baggy fit\nBelt loops, button & zip closure, four pockets, adjustable straps at hem\nNon-stretch material, unlined\n100% reclaimed cotton\nCold gentle machine wash\nSize up for an oversized fit",
+    "Material": "100% reclaimed cotton",
+    "Fit": "low-rise | baggy fit | oversized fit",
+    "Color": "Washed Brown"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "shorts",
+        "source_field": "Title",
+        "quote": "Hudsen Longline Cargo Shorts Washed Brown"
+      },
+      {
+        "value": "shorts",
+        "source_field": "Description",
+        "quote": "Longline cargo shorts with low-rise baggy fit"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Longline cargo shorts with low-rise baggy fit"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "Size up for an oversized fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "100% reclaimed cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Washed Brown"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button",
+        "source_field": "Description",
+        "quote": "button & zip closure"
+      },
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "button & zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "shorts",
+    "rise": "low",
+    "pant_length": "unknown",
+    "skirt_length": "unknown",
+    "leg_shape": "unknown",
+    "fit": "oversized",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "button",
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

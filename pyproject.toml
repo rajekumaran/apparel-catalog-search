@@ -1,0 +1,26 @@
+[project]
+name = "catalog-search"
+version = "1.0.0"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "duckdb>=1.4.5",
+    "fastapi>=0.143.0",
+    "langchain>=1.4.4",
+    "langchain-huggingface>=1.2.3",
+    "langchain-openai>=1.7.0",
+    "numpy>=2.5.3",
+    "pinecone>=10.0.0",
+    "pydantic>=2.14.0",
+    "python-dotenv>=1.2.4",
+    "sentence-transformers>=6.1.0",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[tool.uv]
+package = false
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "pandas>=3.0.6",
+]

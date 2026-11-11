@@ -1,0 +1,49 @@
+{
+  "product_id": "10184924594260",
+  "title": "Arletta Cable Knit Zip Through Sweater Brown",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "279f7e5fac2309ab9a7b466c72a1943ed6b56b983b91911f4b4c8254789288ab",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-10-17T03:33:22.221486+00:00",
+  "attributes": {
+    "top_type": "sweater",
+    "neckline": "mock",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "fitted",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "polyester",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "hand_wash",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "zip_front",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "drop_shoulder",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

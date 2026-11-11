@@ -1,0 +1,66 @@
+{
+  "product_id": "4717516095572",
+  "title": "Kiele Tie Dye Mini Skirt Pink",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "f6134760c002e2d7ecbbb6914dc2cf10c3e6e29143abbc611cb23ec3926316c6",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-10-17T03:30:29.330277+00:00",
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "high",
+    "pant_length": "unknown",
+    "skirt_length": "mini",
+    "leg_shape": "unknown",
+    "fit": "fitted",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "elastic"
+    ],
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "ribbed"
+    ],
+    "lined": "yes",
+    "care": "unknown",
+    "color_primary": "pink",
+    "color_secondary": "unknown",
+    "pattern": "tie_dye",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  }
+}

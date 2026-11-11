@@ -1,0 +1,116 @@
+{
+  "product_id": "10178865102932",
+  "title": "Myrah Layered Sequin Top Chocolate",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "fcfe24f6d1d0060b6628428e4025dd7b89a6391197214c672ecd23ab1aab3358",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:21:34.190780+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Myrah Layered Sequin Top Chocolate",
+    "Description": "Layered top with sequin detail\nSatin fabric, hook & eye closure, side zip closure & boning, adjustable straps, clasp bralette closure\nNon-stretch material, lined bust\n95% polyester 5% elstane\nCold hand wash",
+    "Material": "95% polyester 5% elstane",
+    "Fit": "Fitted",
+    "Color": "Chocolate"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Layered Sequin Top"
+      }
+    ],
+    "fit": [
+      {
+        "value": "fitted",
+        "source_field": "Fit",
+        "quote": "Fitted"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "95% polyester 5% elstane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "lined bust"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Chocolate"
+      }
+    ],
+    "closure": [
+      {
+        "value": "hook_and_eye",
+        "source_field": "Description",
+        "quote": "hook & eye closure"
+      }
+    ],
+    "embellishments": [
+      {
+        "value": "sequins",
+        "source_field": "Title",
+        "quote": "Layered Sequin Top"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "other",
+    "neckline": "unknown",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "fitted",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "unknown",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "hook_and_eye",
+    "embellishments": [
+      "sequins"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

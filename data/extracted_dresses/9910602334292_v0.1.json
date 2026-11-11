@@ -1,0 +1,175 @@
+{
+  "product_id": "9910602334292",
+  "title": "Swing Mini Dress Black Polka Dot",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "2956b87053c0bae34b2e06fe7cf5e89027f679e4746fdc5d345210874fb93ac0",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:32:56.455439+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Swing Mini Dress Black Polka Dot",
+    "Description": "Swing embroidered mini dress in polka-dot print\nSquare neck, frill, front keyhole with tie detail, drop back, relaxed fit\nNon-stretch material, fully lined\nPrincess Polly Lower Impact\nMain & lining: 100% cotton\nCold gentle machine wash",
+    "Material": "Main & lining: 100% cotton",
+    "Fit": "relaxed fit",
+    "Color": "Black Polka Dot"
+  },
+  "evidence": {
+    "dress_length": [
+      {
+        "value": "mini",
+        "source_field": "Title",
+        "quote": "Swing Mini Dress Black Polka Dot"
+      },
+      {
+        "value": "mini",
+        "source_field": "Description",
+        "quote": "Swing embroidered mini dress in polka-dot print"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "square",
+        "source_field": "Description",
+        "quote": "Square neck"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "waist_position": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Swing embroidered mini dress in polka-dot print"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "Main & lining: 100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "black",
+        "source_field": "Color",
+        "quote": "Black Polka Dot"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "polka_dot",
+        "source_field": "Description",
+        "quote": "polka-dot print"
+      }
+    ],
+    "closure": [
+      {
+        "value": "tie",
+        "source_field": "Description",
+        "quote": "front keyhole with tie detail"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "mini",
+    "silhouette": "unknown",
+    "neckline": "square",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "fit": "relaxed",
+    "waist_position": "other",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "unknown",
+    "color_primary": "black",
+    "color_secondary": "unknown",
+    "pattern": "polka_dot",
+    "closure": [
+      "tie"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "sleeve_length",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Description",
+        "quote": "Square neck, frill, front keyhole with tie detail, drop back, relaxed fit"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "back_style",
+      "rejected_evidence": {
+        "value": "drop_back",
+        "source_field": "Description",
+        "quote": "drop back"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

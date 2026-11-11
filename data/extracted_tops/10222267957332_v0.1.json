@@ -1,0 +1,163 @@
+{
+  "product_id": "10222267957332",
+  "title": "Keeran Funnel Neck Fleece Jumper Navy / White",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "feae7e89cd04e8d1192d17c535cdefd4ba962d16e9637150e5e059e1d7cf5909",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:18.642596+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Keeran Funnel Neck Fleece Jumper Navy / White",
+    "Description": "Oversized funnel neck fleece jumper with stripe detail\nZip-up closure, front pockets, ribbed hem, drop shoulders\nNon-stretch material, unlined\nPrincess Polly Lower Impact\nMain: 50% reclaimed cotton 50% reclaimed polyester, Trim: 95% cotton 5% elastane\nCold gentle machine wash",
+    "Material": "Main: 50% reclaimed cotton 50% reclaimed polyester, Trim: 95% cotton 5% elastane",
+    "Fit": "Oversized",
+    "Color": "Navy / White"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "sweatshirt",
+        "source_field": "Title",
+        "quote": "Keeran Funnel Neck Fleece Jumper Navy / White"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "mock",
+        "source_field": "Title",
+        "quote": "Keeran Funnel Neck Fleece Jumper Navy / White"
+      },
+      {
+        "value": "mock",
+        "source_field": "Description",
+        "quote": "Oversized funnel neck fleece jumper with stripe detail"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Description",
+        "quote": "drop shoulders"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "Oversized funnel neck fleece jumper with stripe detail"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 50% reclaimed cotton 50% reclaimed polyester, Trim: 95% cotton 5% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "texture": [
+      {
+        "value": "ribbed",
+        "source_field": "Description",
+        "quote": "ribbed hem"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Navy / White"
+      }
+    ],
+    "color_secondary": [
+      {
+        "value": "white",
+        "source_field": "Color",
+        "quote": "Navy / White"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "stripe",
+        "source_field": "Description",
+        "quote": "stripe detail"
+      }
+    ],
+    "closure": [
+      {
+        "value": "zip_front",
+        "source_field": "Description",
+        "quote": "Zip-up closure"
+      }
+    ],
+    "shoulder_style": [
+      {
+        "value": "drop_shoulder",
+        "source_field": "Description",
+        "quote": "drop shoulders"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "sweatshirt",
+    "neckline": "mock",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "ribbed"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "blue",
+    "color_secondary": "white",
+    "pattern": "stripe",
+    "closure": "zip_front",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "drop_shoulder",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

@@ -1,0 +1,147 @@
+{
+  "product_id": "10222268088404",
+  "title": "Keeran Funnel Neck Fleece Jumper Pink / Black",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "8b6379066aaadc06ed812f8fba97c0d3be3ca08436b9d39d21f95f1af7d87ad0",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:15.775416+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Keeran Funnel Neck Fleece Jumper Pink / Black",
+    "Description": "Oversized funnel neck fleece jumper with stripe detail\nZip-up closure, front pockets, ribbed hem, drop shoulders\nNon-stretch material, unlined\nPrincess Polly Lower Impact\nMain: 50% reclaimed cotton 50% reclaimed polyester, Trim: 95% cotton 5% elastane\nCold gentle machine wash",
+    "Material": "Main: 50% reclaimed cotton 50% reclaimed polyester, Trim: 95% cotton 5% elastane",
+    "Fit": "Oversized",
+    "Color": "Pink / Black"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "sweatshirt",
+        "source_field": "Title",
+        "quote": "Keeran Funnel Neck Fleece Jumper Pink / Black"
+      },
+      {
+        "value": "sweatshirt",
+        "source_field": "Description",
+        "quote": "Oversized funnel neck fleece jumper with stripe detail"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "mock",
+        "source_field": "Title",
+        "quote": "Keeran Funnel Neck Fleece Jumper Pink / Black"
+      },
+      {
+        "value": "mock",
+        "source_field": "Description",
+        "quote": "Oversized funnel neck fleece jumper"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Description",
+        "quote": "drop shoulders"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Fit",
+        "quote": "Oversized"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 50% reclaimed cotton 50% reclaimed polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "texture": [
+      {
+        "value": "ribbed",
+        "source_field": "Description",
+        "quote": "ribbed hem"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "pink",
+        "source_field": "Color",
+        "quote": "Pink / Black"
+      }
+    ],
+    "color_secondary": [
+      {
+        "value": "black",
+        "source_field": "Color",
+        "quote": "Pink / Black"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "stripe",
+        "source_field": "Description",
+        "quote": "stripe detail"
+      }
+    ],
+    "closure": [
+      {
+        "value": "zip_front",
+        "source_field": "Description",
+        "quote": "Zip-up closure"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "sweatshirt",
+    "neckline": "mock",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "ribbed"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "pink",
+    "color_secondary": "black",
+    "pattern": "stripe",
+    "closure": "zip_front",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

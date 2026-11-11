@@ -1,0 +1,164 @@
+{
+  "product_id": "7840875839572",
+  "title": "Claudie Layered Lace Straight Leg Pants White",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "335339a84c3ce91d6c2f056eec13c83a9e98e272f3ffaad73a4938393e8edb98",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:17.776851+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Claudie Layered Lace Straight Leg Pants White",
+    "Description": "Layered lace pants in straight-leg cut\nFloral detail, tie-side, fixed wrap-detail, sheer, mid-rise\nNon-stretch material, unlined\nMain: 100% polyester, Wrap: 80% polyester 20% cotton\nCold gentle machine wash",
+    "Material": "Main: 100% polyester, Wrap: 80% polyester 20% cotton",
+    "Fit": "mid-rise",
+    "Color": "White"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "trousers",
+        "source_field": "Title",
+        "quote": "Layered Lace Straight Leg Pants"
+      },
+      {
+        "value": "trousers",
+        "source_field": "Description",
+        "quote": "Layered lace pants in straight-leg cut"
+      }
+    ],
+    "rise": [
+      {
+        "value": "mid",
+        "source_field": "Description",
+        "quote": "mid-rise"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "full_length",
+        "source_field": "Title",
+        "quote": "Straight Leg Pants"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "straight",
+        "source_field": "Description",
+        "quote": "straight-leg cut"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "white",
+        "source_field": "Color",
+        "quote": "White"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "floral",
+        "source_field": "Description",
+        "quote": "Floral detail"
+      }
+    ],
+    "closure": [
+      {
+        "value": "wrap",
+        "source_field": "Description",
+        "quote": "fixed wrap-detail"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "trousers",
+    "rise": "mid",
+    "pant_length": "full_length",
+    "skirt_length": "unknown",
+    "leg_shape": "straight",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "unknown",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "white",
+    "color_secondary": "unknown",
+    "pattern": "floral",
+    "closure": [
+      "wrap"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "fit",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Description",
+        "quote": "mid-rise"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "fabric_type",
+      "rejected_evidence": [
+        {
+          "value": "polyester",
+          "source_field": "Material",
+          "quote": "Main: 100% polyester"
+        },
+        {
+          "value": "blend",
+          "source_field": "Material",
+          "quote": "Wrap: 80% polyester 20% cotton"
+        }
+      ],
+      "reason": "Conflicting values; attribute left unknown"
+    }
+  ]
+}

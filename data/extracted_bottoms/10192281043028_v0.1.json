@@ -1,0 +1,161 @@
+{
+  "product_id": "10192281043028",
+  "title": "Totti Jean Washed Blue",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "b76bb3c69112def7b84059cb55a9c639664a3a793741c0c8d5ee0f64b89640f7",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:22:46.851252+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Totti Jean Washed Blue",
+    "Description": "Straight leg denim jeans with lace-up back detail\nButton & zip closure, five pockets, mid-rise\nNon-stretch material, unlined\n100% cotton\nCold hand wash",
+    "Material": "100% cotton",
+    "Fit": "mid-rise",
+    "Color": "Washed Blue"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "jeans",
+        "source_field": "Description",
+        "quote": "Straight leg denim jeans with lace-up back detail"
+      }
+    ],
+    "rise": [
+      {
+        "value": "mid",
+        "source_field": "Description",
+        "quote": "mid-rise"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "full_length",
+        "source_field": "Description",
+        "quote": "Straight leg denim jeans"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "straight",
+        "source_field": "Description",
+        "quote": "Straight leg denim jeans"
+      }
+    ],
+    "fit": [
+      {
+        "value": "regular",
+        "source_field": "Description",
+        "quote": "mid-rise"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "hand_wash",
+        "source_field": "Description",
+        "quote": "Cold hand wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Washed Blue"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button_and_zip",
+        "source_field": "Description",
+        "quote": "Button & zip closure"
+      }
+    ],
+    "pocket_style": [
+      {
+        "value": "five_pocket",
+        "source_field": "Description",
+        "quote": "five pockets"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "jeans",
+    "rise": "mid",
+    "pant_length": "full_length",
+    "skirt_length": "unknown",
+    "leg_shape": "straight",
+    "fit": "regular",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "hand_wash",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "button_and_zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "five_pocket"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

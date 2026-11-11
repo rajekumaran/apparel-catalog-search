@@ -1,0 +1,159 @@
+{
+  "product_id": "10205525606484",
+  "title": "Alyss Ultra Low Rise Flared Jeans Light Vintage Blue",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "1e3c279dd10b6695e3275310a7714d538046cc25e73b34ba4cf666983786691e",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:22:27.068328+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Alyss Ultra Low Rise Flared Jeans Light Vintage Blue",
+    "Description": "Low-rise flare denim jeans\nBelt looped waist, button & zip closure, five pockets, flare hem, branded patch at back\nGood stretch, unlined\nMain: 98% cotton 2% spandex\nCold gentle machine wash",
+    "Material": "Main: 98% cotton 2% spandex",
+    "Fit": "Low-rise",
+    "Color": "Light Vintage Blue"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "jeans",
+        "source_field": "Title",
+        "quote": "Alyss Ultra Low Rise Flared Jeans Light Vintage Blue"
+      },
+      {
+        "value": "jeans",
+        "source_field": "Description",
+        "quote": "Low-rise flare denim jeans"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Low-rise flare denim jeans"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "flare",
+        "source_field": "Description",
+        "quote": "flare hem"
+      }
+    ],
+    "waistband_style": [
+      {
+        "value": "fixed",
+        "source_field": "Description",
+        "quote": "Belt looped waist"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 98% cotton 2% spandex"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Light Vintage Blue"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button_and_zip",
+        "source_field": "Description",
+        "quote": "button & zip closure"
+      }
+    ],
+    "pocket_style": [
+      {
+        "value": "five_pocket",
+        "source_field": "Description",
+        "quote": "five pockets"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "jeans",
+    "rise": "low",
+    "pant_length": "unknown",
+    "skirt_length": "unknown",
+    "leg_shape": "flare",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "fixed"
+    ],
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "button_and_zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "five_pocket"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

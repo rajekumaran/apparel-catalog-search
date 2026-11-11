@@ -1,0 +1,71 @@
+{
+  "product_id": "10166356246612",
+  "title": "Jadira Scarf Maxi Dress Plum",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "c2189ee7ac65e804a4e47b90011db799d9e1385b906d4d774576e262eada7585",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-10-17T03:34:03.569968+00:00",
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "maxi",
+    "silhouette": "other",
+    "neckline": "v_neck",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "fit": "fitted",
+    "waist_position": "natural",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "open_back",
+    "fabric_type": "polyester",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "purple",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "ruching",
+      "other"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "yes",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

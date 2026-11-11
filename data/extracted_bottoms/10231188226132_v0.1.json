@@ -1,0 +1,167 @@
+{
+  "product_id": "10231188226132",
+  "title": "Konstanze High Rise Baggy Jeans Washed Black",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "f4dccf01e99f7709554b4f64636a6fe5813c75f3930d8a9f4a79a263fde61377",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:31:58.743238+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Konstanze High Rise Baggy Jeans Washed Black",
+    "Description": "High-rise baggy denim jeans\nBelt loops, button & zip closure, five pockets, branded patch\nNon-stretch material, unlined\nMain: 100% cotton, Pocketing: 65% polyester 35% cotton\nCold gentle machine wash",
+    "Material": "Main: 100% cotton, Pocketing: 65% polyester 35% cotton",
+    "Fit": "High-rise",
+    "Color": "Washed Black"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "jeans",
+        "source_field": "Title",
+        "quote": "Konstanze High Rise Baggy Jeans Washed Black"
+      },
+      {
+        "value": "jeans",
+        "source_field": "Description",
+        "quote": "High-rise baggy denim jeans"
+      }
+    ],
+    "rise": [
+      {
+        "value": "high",
+        "source_field": "Description",
+        "quote": "High-rise baggy denim jeans"
+      },
+      {
+        "value": "high",
+        "source_field": "Fit",
+        "quote": "High-rise"
+      }
+    ],
+    "waistband_style": [
+      {
+        "value": "fixed",
+        "source_field": "Description",
+        "quote": "Belt loops"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "Main: 100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "black",
+        "source_field": "Color",
+        "quote": "Washed Black"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button_and_zip",
+        "source_field": "Description",
+        "quote": "button & zip closure"
+      }
+    ],
+    "pocket_style": [
+      {
+        "value": "five_pocket",
+        "source_field": "Description",
+        "quote": "five pockets"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "jeans",
+    "rise": "high",
+    "pant_length": "unknown",
+    "skirt_length": "unknown",
+    "leg_shape": "unknown",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "fixed"
+    ],
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "black",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "button_and_zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "five_pocket"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "leg_shape",
+      "rejected_evidence": {
+        "value": "baggy",
+        "source_field": "Title",
+        "quote": "Konstanze High Rise Baggy Jeans Washed Black"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

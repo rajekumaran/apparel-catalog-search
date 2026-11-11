@@ -1,0 +1,190 @@
+{
+  "product_id": "10192286777428",
+  "title": "Evah Faux Leather Pencil Midi Skirt Black",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "f4635f1341578eb85bffec80c7370b0663abf44c4e61e124afdc16dd04f48b6a",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:15.476560+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Evah Faux Leather Pencil Midi Skirt Black",
+    "Description": "Faux leather pencil midi skirt\nThick waist, side zip closure, split hem at back\nNon-stretch material, fully lined\n55% polyester 45% PU\nCold gentle machine wash",
+    "Material": "55% polyester 45% PU",
+    "Fit": "Slim Fit",
+    "Color": "Black"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "skirt",
+        "source_field": "Title",
+        "quote": "Evah Faux Leather Pencil Midi Skirt Black"
+      },
+      {
+        "value": "skirt",
+        "source_field": "Description",
+        "quote": "Faux leather pencil midi skirt"
+      }
+    ],
+    "skirt_length": [
+      {
+        "value": "midi",
+        "source_field": "Title",
+        "quote": "Evah Faux Leather Pencil Midi Skirt Black"
+      },
+      {
+        "value": "midi",
+        "source_field": "Description",
+        "quote": "Faux leather pencil midi skirt"
+      }
+    ],
+    "fit": [
+      {
+        "value": "slim",
+        "source_field": "Fit",
+        "quote": "Slim Fit"
+      }
+    ],
+    "skirt_silhouette": [
+      {
+        "value": "pencil",
+        "source_field": "Title",
+        "quote": "Evah Faux Leather Pencil Midi Skirt Black"
+      },
+      {
+        "value": "pencil",
+        "source_field": "Description",
+        "quote": "Faux leather pencil midi skirt"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "other",
+        "source_field": "Material",
+        "quote": "55% polyester 45% PU"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "black",
+        "source_field": "Color",
+        "quote": "Black"
+      }
+    ],
+    "closure": [
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "side zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "unknown",
+    "pant_length": "unknown",
+    "skirt_length": "midi",
+    "leg_shape": "unknown",
+    "fit": "slim",
+    "skirt_silhouette": "pencil",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "other",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "machine_washable",
+    "color_primary": "black",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "rise",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Description",
+        "quote": "Thick waist"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "pant_length",
+      "rejected_evidence": {
+        "value": "not_applicable",
+        "source_field": "Category",
+        "quote": "Bottoms"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "leg_shape",
+      "rejected_evidence": {
+        "value": "not_applicable",
+        "source_field": "Category",
+        "quote": "Bottoms"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

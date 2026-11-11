@@ -1,0 +1,189 @@
+{
+  "product_id": "8718523957332",
+  "title": "Jayana Bandage Mini Dress Red",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "1f29975da89e3fd5e90e3f9047f06bebd362ddb5308204b70c142538cb768664",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:33:11.212341+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Jayana Bandage Mini Dress Red",
+    "Description": "Bandage mini dress with tiered detail\nA-line, adjustable straps, slim-fit\nSemi-stretched, unlined\nPrincess Polly Lower Impact\n95% reclaimed polyester 5% elastane\nCold gentle machine wash",
+    "Material": "95% reclaimed polyester 5% elastane",
+    "Fit": "Slim fit",
+    "Color": "Red"
+  },
+  "evidence": {
+    "dress_type": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Bandage mini dress with tiered detail"
+      }
+    ],
+    "dress_length": [
+      {
+        "value": "mini",
+        "source_field": "Title",
+        "quote": "Jayana Bandage Mini Dress Red"
+      },
+      {
+        "value": "mini",
+        "source_field": "Description",
+        "quote": "Bandage mini dress with tiered detail"
+      }
+    ],
+    "silhouette": [
+      {
+        "value": "a_line",
+        "source_field": "Description",
+        "quote": "A-line, adjustable straps, slim-fit"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "adjustable straps"
+      }
+    ],
+    "fit": [
+      {
+        "value": "slim",
+        "source_field": "Fit",
+        "quote": "Slim fit"
+      }
+    ],
+    "waist_detail": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Bandage mini dress with tiered detail"
+      }
+    ],
+    "skirt_construction": [
+      {
+        "value": "tiered",
+        "source_field": "Description",
+        "quote": "Bandage mini dress with tiered detail"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "95% reclaimed polyester 5% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "slight",
+        "source_field": "Description",
+        "quote": "Semi-stretched"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "red",
+        "source_field": "Color",
+        "quote": "Red"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Color",
+        "quote": "Red"
+      }
+    ],
+    "closure": [
+      {
+        "value": "pull_on",
+        "source_field": "Description",
+        "quote": "Bandage mini dress with tiered detail"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "other",
+    "dress_length": "mini",
+    "silhouette": "a_line",
+    "neckline": "other",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "fit": "slim",
+    "waist_position": "unknown",
+    "waist_detail": [
+      "other"
+    ],
+    "skirt_construction": [
+      "tiered"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "slight",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "red",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "pull_on"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "sleeve_length",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Description",
+        "quote": "Bandage mini dress with tiered detail\nA-line, adjustable straps, slim-fit\nSemi-stretched, unlined"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "waist_position",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Description",
+        "quote": "Bandage mini dress with tiered detail\nA-line, adjustable straps, slim-fit"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

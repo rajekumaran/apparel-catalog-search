@@ -1,0 +1,124 @@
+{
+  "product_id": "10184925544532",
+  "title": "Myrandah V Neck Long SLeeve Knit Jumper Chocolate Stripe",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "5ac420c84ef9a7441920c2680475e490b3da506218e223f917ad9a84bee85ff5",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:21:40.960897+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Myrandah V Neck Long SLeeve Knit Jumper Chocolate Stripe",
+    "Description": "V-neck long sleeve knit jumper\nContrast detail, drop shoulders\nNon-stretch material, unlined\n60% cotton 40% acrylic\nCold hand wash",
+    "Material": "60% cotton 40% acrylic",
+    "Fit": "Oversized Fit | Relaxed fit",
+    "Color": "Chocolate Stripe"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "sweater",
+        "source_field": "Title",
+        "quote": "Knit Jumper"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "v_neck",
+        "source_field": "Title",
+        "quote": "V Neck"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Title",
+        "quote": "Long SLeeve"
+      },
+      {
+        "value": "long",
+        "source_field": "Description",
+        "quote": "long sleeve"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "60% cotton 40% acrylic"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "stripe",
+        "source_field": "Color",
+        "quote": "Chocolate Stripe"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "sweater",
+    "neckline": "v_neck",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "unknown",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "unknown",
+    "color_secondary": "unknown",
+    "pattern": "stripe",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "fit",
+      "rejected_evidence": [
+        {
+          "value": "oversized",
+          "source_field": "Fit",
+          "quote": "Oversized Fit"
+        },
+        {
+          "value": "relaxed",
+          "source_field": "Fit",
+          "quote": "Relaxed fit"
+        }
+      ],
+      "reason": "Conflicting values; attribute left unknown"
+    }
+  ]
+}

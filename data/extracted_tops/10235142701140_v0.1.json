@@ -1,0 +1,123 @@
+{
+  "product_id": "10235142701140",
+  "title": "Arlla Waffle Jersey Long Sleeve Top Grey",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "08a749130a51fefa56f069fc120a98e84336fb354d1d1fc785f937e243c8f6bb",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:46.224365+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Arlla Waffle Jersey Long Sleeve Top Grey",
+    "Description": "Oversized jersey long sleeve top with crew neck\nNon-stretch material, unlined\nPrincess Polly Lower Impact\n96% reclaimed polyester 4% elastane\nCold gentle machine wash",
+    "Material": "96% reclaimed polyester 4% elastane",
+    "Fit": "Oversized",
+    "Color": "Grey"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Arlla Waffle Jersey Long Sleeve Top Grey"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "crew",
+        "source_field": "Description",
+        "quote": "Oversized jersey long sleeve top with crew neck"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Title",
+        "quote": "Arlla Waffle Jersey Long Sleeve Top Grey"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "Oversized jersey long sleeve top with crew neck"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "96% reclaimed polyester 4% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material, unlined"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "gray",
+        "source_field": "Color",
+        "quote": "Grey"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Arlla Waffle Jersey Long Sleeve Top Grey"
+      }
+    ],
+    "closure": [
+      {
+        "value": "pullover",
+        "source_field": "Description",
+        "quote": "Oversized jersey long sleeve top with crew neck"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "other",
+    "neckline": "crew",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "gray",
+    "color_secondary": "unknown",
+    "pattern": "other",
+    "closure": "pullover",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

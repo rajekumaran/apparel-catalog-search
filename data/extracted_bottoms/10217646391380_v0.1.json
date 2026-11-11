@@ -1,0 +1,126 @@
+{
+  "product_id": "10217646391380",
+  "title": "Riyah 3/4 Low Rise Nylon Pants Navy",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "0b867b6944237daf8689f14e835971fea4e48fc052bce8939eba9d37ce3bd5d2",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:22:52.715882+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Riyah 3/4 Low Rise Nylon Pants Navy",
+    "Description": "3/4 low-rise nylon pants\nElasticated, pleat under waist, pocketless\nNon-stretch material, unlined\n100% nylon\nCold gentle machine wash",
+    "Material": "100% nylon",
+    "Fit": "low-rise",
+    "Color": "Navy"
+  },
+  "evidence": {
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "3/4 low-rise nylon pants"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "capri",
+        "source_field": "Title",
+        "quote": "Riyah 3/4 Low Rise Nylon Pants Navy"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "pleat under waist"
+      }
+    ],
+    "waistband_style": [
+      {
+        "value": "elastic",
+        "source_field": "Description",
+        "quote": "Elasticated"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "nylon",
+        "source_field": "Material",
+        "quote": "100% nylon"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Navy"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "unknown",
+    "rise": "low",
+    "pant_length": "capri",
+    "skirt_length": "unknown",
+    "leg_shape": "other",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "elastic"
+    ],
+    "fabric_type": "nylon",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

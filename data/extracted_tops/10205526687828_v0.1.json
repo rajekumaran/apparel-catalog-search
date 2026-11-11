@@ -1,0 +1,114 @@
+{
+  "product_id": "10205526687828",
+  "title": "Seasons Change Relaxed Off Shoulder Top Burgundy",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "4057b162493a5b449270eda69fa1e461bd6181c0c20907ba685b30a3e10c5b00",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:22:01.999471+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Seasons Change Relaxed Off Shoulder Top Burgundy",
+    "Description": "Off shoulder top in linen blend fabric\nSide hook & zip closure, relaxed fit\nNon-stretch material, unlined\n55% linen 45% viscose\nCold gentle machine wash",
+    "Material": "55% linen 45% viscose",
+    "Fit": "relaxed fit",
+    "Color": "Burgundy"
+  },
+  "evidence": {
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "55% linen 45% viscose"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "other",
+        "source_field": "Color",
+        "quote": "Burgundy"
+      }
+    ],
+    "closure": [
+      {
+        "value": "hook_and_eye",
+        "source_field": "Description",
+        "quote": "Side hook & zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "unknown",
+    "neckline": "unknown",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "relaxed",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "other",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "hook_and_eye",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "top_type",
+      "rejected_evidence": {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Off shoulder top"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    },
+    {
+      "attribute": "neckline",
+      "rejected_evidence": {
+        "value": "off_shoulder",
+        "source_field": "Title",
+        "quote": "Off shoulder top"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "product_id": "10173499113556",
+  "title": "Jacilyn Lace Trim Midi Skirt Butter Yellow / Blue",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "35fcf88606acd9b86edbc3b4844871dc103513016501d12a9777b3485b9360a3",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:12.385755+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Jacilyn Lace Trim Midi Skirt Butter Yellow / Blue",
+    "Description": "Low-rise midi skirt with lace trim detail\nSatin material, side zip closure\nNon-stretch material, unlined\nMain: 100% polyester, Trim: 80% nylon 20% elastane\nCold gentle hand wash",
+    "Material": "Main: 100% polyester, Trim: 80% nylon 20% elastane",
+    "Fit": "Low-rise",
+    "Color": "Butter Yellow / Blue"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "skirt",
+        "source_field": "Description",
+        "quote": "Low-rise midi skirt with lace trim detail"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Low-rise midi skirt with lace trim detail"
+      }
+    ],
+    "skirt_length": [
+      {
+        "value": "midi",
+        "source_field": "Description",
+        "quote": "Low-rise midi skirt with lace trim detail"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "polyester",
+        "source_field": "Material",
+        "quote": "Main: 100% polyester, Trim: 80% nylon 20% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "hand_wash",
+        "source_field": "Description",
+        "quote": "Cold gentle hand wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "yellow",
+        "source_field": "Color",
+        "quote": "Butter Yellow / Blue"
+      }
+    ],
+    "color_secondary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Butter Yellow / Blue"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Title",
+        "quote": "Jacilyn Lace Trim Midi Skirt Butter Yellow / Blue"
+      }
+    ],
+    "closure": [
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "side zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "low",
+    "pant_length": "unknown",
+    "skirt_length": "midi",
+    "leg_shape": "unknown",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "polyester",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "hand_wash",
+    "color_primary": "yellow",
+    "color_secondary": "blue",
+    "pattern": "solid",
+    "closure": [
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

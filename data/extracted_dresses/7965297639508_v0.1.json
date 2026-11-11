@@ -1,0 +1,194 @@
+{
+  "product_id": "7965297639508",
+  "title": "Lucka Babydoll Tie Mini Dress White",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "736e8d20e0e0875ce3183611a3bbf251fca492d842ba7231436f4f4d80becfc6",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:33:05.040149+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Lucka Babydoll Tie Mini Dress White",
+    "Description": "Babydoll tie mini dress\nScoop neck with pleat detail, twin hip pockets, low back, relaxed fit\nNon-stretch material, unlined\n100% cotton\nCold gentle machine wash",
+    "Material": "100% cotton",
+    "Fit": "relaxed fit",
+    "Color": "White"
+  },
+  "evidence": {
+    "dress_type": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Lucka Babydoll Tie Mini Dress White"
+      },
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Babydoll tie mini dress"
+      }
+    ],
+    "dress_length": [
+      {
+        "value": "mini",
+        "source_field": "Title",
+        "quote": "Lucka Babydoll Tie Mini Dress White"
+      },
+      {
+        "value": "mini",
+        "source_field": "Description",
+        "quote": "Babydoll tie mini dress"
+      }
+    ],
+    "silhouette": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Babydoll tie mini dress"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "scoop",
+        "source_field": "Description",
+        "quote": "Scoop neck with pleat detail"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "sleeveless",
+        "source_field": "Description",
+        "quote": "Babydoll tie mini dress"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "waist_position": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Lucka Babydoll Tie Mini Dress White"
+      }
+    ],
+    "waist_detail": [
+      {
+        "value": "tie_waist",
+        "source_field": "Title",
+        "quote": "Lucka Babydoll Tie Mini Dress White"
+      },
+      {
+        "value": "tie_waist",
+        "source_field": "Description",
+        "quote": "Babydoll tie mini dress"
+      }
+    ],
+    "back_style": [
+      {
+        "value": "low_back",
+        "source_field": "Description",
+        "quote": "low back"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "white",
+        "source_field": "Color",
+        "quote": "White"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Color",
+        "quote": "White"
+      }
+    ],
+    "closure": [
+      {
+        "value": "pull_on",
+        "source_field": "Description",
+        "quote": "Babydoll tie mini dress"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "other",
+    "dress_length": "mini",
+    "silhouette": "other",
+    "neckline": "scoop",
+    "sleeve_length": "sleeveless",
+    "sleeve_style": "unknown",
+    "fit": "relaxed",
+    "waist_position": "other",
+    "waist_detail": [
+      "tie_waist"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "low_back",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "white",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "pull_on"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

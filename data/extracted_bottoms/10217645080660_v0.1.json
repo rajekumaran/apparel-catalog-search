@@ -1,0 +1,155 @@
+{
+  "product_id": "10217645080660",
+  "title": "Hayess Sheer Embroidered Maxi Skirt Black",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "2b4eef1425f93427ac6e9408f20e52906d3ec3f390eb322165577e5fefc35e88",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:26.812120+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Hayess Sheer Embroidered Maxi Skirt Black",
+    "Description": "Low-rise sheer embroidered sequin maxi skirt\nGood stretch, fully lined\nPrincess Polly Lower Impact\nMain face: 100% reclaimed PET, Main back: 95% polyester 5% elastane\nCold hand wash",
+    "Material": "Main face: 100% reclaimed PET, Main back: 95% polyester 5% elastane",
+    "Fit": "Low-rise",
+    "Color": "Black"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "skirt",
+        "source_field": "Title",
+        "quote": "Hayess Sheer Embroidered Maxi Skirt Black"
+      },
+      {
+        "value": "skirt",
+        "source_field": "Description",
+        "quote": "Low-rise sheer embroidered sequin maxi skirt"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Low-rise sheer embroidered sequin maxi skirt"
+      },
+      {
+        "value": "low",
+        "source_field": "Fit",
+        "quote": "Low-rise"
+      }
+    ],
+    "skirt_length": [
+      {
+        "value": "maxi",
+        "source_field": "Title",
+        "quote": "Hayess Sheer Embroidered Maxi Skirt Black"
+      },
+      {
+        "value": "maxi",
+        "source_field": "Description",
+        "quote": "Low-rise sheer embroidered sequin maxi skirt"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "polyester",
+        "source_field": "Material",
+        "quote": "Main back: 95% polyester 5% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "sheerness": [
+      {
+        "value": "sheer",
+        "source_field": "Description",
+        "quote": "sheer embroidered sequin maxi skirt"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "care": [
+      {
+        "value": "hand_wash",
+        "source_field": "Description",
+        "quote": "Cold hand wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "black",
+        "source_field": "Color",
+        "quote": "Black"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "low",
+    "pant_length": "unknown",
+    "skirt_length": "maxi",
+    "leg_shape": "unknown",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "polyester",
+    "stretch": "stretchy",
+    "sheerness": "sheer",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "hand_wash",
+    "color_primary": "black",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

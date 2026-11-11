@@ -1,0 +1,154 @@
+{
+  "product_id": "10192281960532",
+  "title": "Lunna Funnel Neck Jacket Blue / Brown Check",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "b68e817b8b560006dc3be1c7f6d5ed263c7e15e603a2051374ac74445dd43b44",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:22:19.405655+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Lunna Funnel Neck Jacket Blue / Brown Check",
+    "Description": "Funnel neck jacket in check print\nZip & button closure, twin side pockets, elasticated hem, drop shoulders\nNon-stretch material, fully lined\n100% polyester\nCold hand wash",
+    "Material": "100% polyester",
+    "Fit": "Oversized Fit",
+    "Color": "Blue / Brown Check"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Lunna Funnel Neck Jacket Blue / Brown Check"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Description",
+        "quote": "drop shoulders"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Fit",
+        "quote": "Oversized Fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "polyester",
+        "source_field": "Material",
+        "quote": "100% polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "texture": [
+      {
+        "value": "smooth",
+        "source_field": "Material",
+        "quote": "100% polyester"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "care": [
+      {
+        "value": "hand_wash",
+        "source_field": "Description",
+        "quote": "Cold hand wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Blue / Brown Check"
+      }
+    ],
+    "color_secondary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Blue / Brown Check"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "plaid",
+        "source_field": "Title",
+        "quote": "Blue / Brown Check"
+      }
+    ],
+    "closure": [
+      {
+        "value": "zip_front",
+        "source_field": "Description",
+        "quote": "Zip & button closure"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "other",
+    "neckline": "unknown",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "polyester",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "smooth"
+    ],
+    "lined": "yes",
+    "care": "hand_wash",
+    "color_primary": "blue",
+    "color_secondary": "brown",
+    "pattern": "plaid",
+    "closure": "zip_front",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "neckline",
+      "rejected_evidence": {
+        "value": "mock",
+        "source_field": "Title",
+        "quote": "Funnel neck jacket in check print"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

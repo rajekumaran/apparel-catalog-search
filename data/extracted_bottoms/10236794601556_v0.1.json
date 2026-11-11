@@ -1,0 +1,143 @@
+{
+  "product_id": "10236794601556",
+  "title": "Daydream Tie Up Jeans Dark Denim",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "8f54f39f9103ab58472788816615326b73bd0846b35ad7a9dc906acc19080fd5",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:10.151712+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Daydream Tie Up Jeans Dark Denim",
+    "Description": "Low-rise wide-leg tie-up denim jeans\nSeam detail, zip closure, four pockets\nNon-stretch material, unlined\n95% cotton 5% polyester\nCold hand wash",
+    "Material": "95% cotton 5% polyester",
+    "Fit": "Low-rise",
+    "Color": "Dark Denim"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "jeans",
+        "source_field": "Title",
+        "quote": "Daydream Tie Up Jeans Dark Denim"
+      },
+      {
+        "value": "jeans",
+        "source_field": "Description",
+        "quote": "Low-rise wide-leg tie-up denim jeans"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Low-rise wide-leg tie-up denim jeans"
+      },
+      {
+        "value": "low",
+        "source_field": "Fit",
+        "quote": "Low-rise"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "full_length",
+        "source_field": "Description",
+        "quote": "Low-rise wide-leg tie-up denim jeans"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "wide",
+        "source_field": "Description",
+        "quote": "Low-rise wide-leg tie-up denim jeans"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "95% cotton 5% polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Dark Denim"
+      }
+    ],
+    "closure": [
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "jeans",
+    "rise": "low",
+    "pant_length": "full_length",
+    "skirt_length": "unknown",
+    "leg_shape": "wide",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

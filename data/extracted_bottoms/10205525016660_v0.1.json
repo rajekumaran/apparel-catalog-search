@@ -1,0 +1,149 @@
+{
+  "product_id": "10205525016660",
+  "title": "Palaces Low Rise Ringspun Bootleg Jeans Dark Indigo",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "64250ad3b008edda770f5be9ac2eb97b75fefccac7075cb21ebbe5f6f3148cd7",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:00.780667+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Palaces Low Rise Ringspun Bootleg Jeans Dark Indigo",
+    "Description": "Low-rise bootleg denim jeans\nBelt loops, button & zip closure, five pockets, branded patch\nNon-stretch material, unlined\nMain: 98% cotton 2% elastane, Pocketing: 65% polyester 35% cotton\nCold gentle machine wash",
+    "Material": "Main: 98% cotton 2% elastane, Pocketing: 65% polyester 35% cotton",
+    "Fit": "Low-rise",
+    "Color": "Dark Indigo"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "jeans",
+        "source_field": "Description",
+        "quote": "Low-rise bootleg denim jeans"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Low-rise bootleg denim jeans"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "full_length",
+        "source_field": "Title",
+        "quote": "Palaces Low Rise Ringspun Bootleg Jeans Dark Indigo"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "bootcut",
+        "source_field": "Title",
+        "quote": "Palaces Low Rise Ringspun Bootleg Jeans Dark Indigo"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 98% cotton 2% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Dark Indigo"
+      }
+    ],
+    "closure": [
+      {
+        "value": "button",
+        "source_field": "Description",
+        "quote": "button & zip closure"
+      },
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "button & zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "jeans",
+    "rise": "low",
+    "pant_length": "full_length",
+    "skirt_length": "unknown",
+    "leg_shape": "bootcut",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "button",
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "fit",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Fit",
+        "quote": "Low-rise"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

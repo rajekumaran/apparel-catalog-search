@@ -1,0 +1,46 @@
+{
+  "product_id": "10249201483860",
+  "title": "Nakota V Neck Cinched Tee Butter Yellow",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "attributes": {
+    "top_type": "t_shirt",
+    "neckline": "v_neck",
+    "sleeve_length": "cap",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "fitted",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "yellow",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

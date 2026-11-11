@@ -1,0 +1,130 @@
+{
+  "product_id": "10236809543764",
+  "title": "Arlla Waffle Jersey Long Sleeve Top Camo",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "4d382b54441296b20c4a87f8b930e36b1ce74d37fec358c15d5f76af82a172de",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:48.236530+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Arlla Waffle Jersey Long Sleeve Top Camo",
+    "Description": "Oversized jersey long sleeve top with crew neck\nNon-stretch material, unlined\nPrincess Polly Lower Impact\n96% reclaimed polyester 4% elastane\nCold gentle machine wash",
+    "Material": "96% reclaimed polyester 4% elastane",
+    "Fit": "Oversized",
+    "Color": "Camo"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Arlla Waffle Jersey Long Sleeve Top Camo"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "crew",
+        "source_field": "Description",
+        "quote": "Oversized jersey long sleeve top with crew neck"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Title",
+        "quote": "Arlla Waffle Jersey Long Sleeve Top Camo"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "Oversized jersey long sleeve top with crew neck"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "96% reclaimed polyester 4% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material, unlined"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "Non-stretch material, unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "other",
+        "source_field": "Color",
+        "quote": "Camo"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "other",
+        "source_field": "Color",
+        "quote": "Camo"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "other",
+    "neckline": "crew",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "other",
+    "color_secondary": "unknown",
+    "pattern": "other",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

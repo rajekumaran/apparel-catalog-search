@@ -1,0 +1,67 @@
+{
+  "product_id": "6575606661204",
+  "title": "Trippy Waves Check Short Yellow",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "d5eed8e836166cc826179f92731be17a3bbaa67fe81c1b3c8c5e38630110e188",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-10-17T03:30:28.018454+00:00",
+  "attributes": {
+    "bottom_type": "shorts",
+    "rise": "high",
+    "pant_length": "short",
+    "skirt_length": "unknown",
+    "leg_shape": "unknown",
+    "fit": "fitted",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "fixed"
+    ],
+    "fabric_type": "blend",
+    "stretch": "slight",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "unknown",
+    "color_primary": "yellow",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "button",
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "yes",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  }
+}

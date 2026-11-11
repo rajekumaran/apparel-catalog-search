@@ -1,0 +1,49 @@
+{
+  "product_id": "10251424596052",
+  "title": "Zip Through Oversized Hoodie Washed Teal",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "a93f55ab03ce3737f46b06da48e69337d6f648feb4949baa3f704eb8f5a033eb",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-10-17T03:33:27.935862+00:00",
+  "attributes": {
+    "top_type": "hoodie",
+    "neckline": "unknown",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "other",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": "zip_front",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "drop_shoulder",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  }
+}

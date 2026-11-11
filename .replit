@@ -1,0 +1,6 @@
+run = "uv run --locked uvicorn interfaces.web_api:app --host 0.0.0.0 --port 3000"
+modules = ["python-3.12"]
+
+[[ports]]
+localPort = 3000
+externalPort = 80

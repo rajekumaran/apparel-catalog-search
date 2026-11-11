@@ -1,0 +1,161 @@
+{
+  "product_id": "7850504552532",
+  "title": "Agnessa Ruched Detail Mini Dress White",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "e0b737d0a834fddbd1f23e7c94b2eccb06fa1dd3e58ecec27a7c5b6c0078a227",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:33:25.327945+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Agnessa Ruched Detail Mini Dress White",
+    "Description": "Short-sleeve mini dress with adjustable ruched detail\nCrew neckline, side split at hem, relaxed fit\nGood stretch, unlined\n95% cotton 5% elastane\nCold gentle machine wash",
+    "Material": "95% cotton 5% elastane",
+    "Fit": "relaxed fit",
+    "Color": "White"
+  },
+  "evidence": {
+    "dress_length": [
+      {
+        "value": "mini",
+        "source_field": "Title",
+        "quote": "Mini Dress"
+      },
+      {
+        "value": "mini",
+        "source_field": "Description",
+        "quote": "Short-sleeve mini dress"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "crew",
+        "source_field": "Description",
+        "quote": "Crew neckline"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "short",
+        "source_field": "Description",
+        "quote": "Short-sleeve"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "95% cotton 5% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "white",
+        "source_field": "Color",
+        "quote": "White"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Title",
+        "quote": "White"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "mini",
+    "silhouette": "unknown",
+    "neckline": "crew",
+    "sleeve_length": "short",
+    "sleeve_style": "unknown",
+    "fit": "relaxed",
+    "waist_position": "unknown",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "white",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "waist_detail",
+      "rejected_evidence": {
+        "value": "ruching",
+        "source_field": "Title",
+        "quote": "Ruched Detail"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "waist_detail",
+      "rejected_evidence": {
+        "value": "ruching",
+        "source_field": "Description",
+        "quote": "adjustable ruched detail"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

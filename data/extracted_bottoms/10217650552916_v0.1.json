@@ -1,0 +1,173 @@
+{
+  "product_id": "10217650552916",
+  "title": "Lydee Lace Up Mini Shorts Brown",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "8e6a55f60c93c311879689b2319e9d84123aed52389efb69cc8cf47dae4d70a4",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:22.755838+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Lydee Lace Up Mini Shorts Brown",
+    "Description": "Lace-up mini shorts\nBelt loops, hook & zip closure, low-rise\nNon-stretch material, fully lined\nMain: 90% polyester 10% elastane, Lining: 100% polyester\nWipe down outer garment with damp cloth",
+    "Material": "Main: 90% polyester 10% elastane, Lining: 100% polyester",
+    "Fit": "low-rise",
+    "Color": "Brown"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "shorts",
+        "source_field": "Title",
+        "quote": "Lydee Lace Up Mini Shorts Brown"
+      },
+      {
+        "value": "shorts",
+        "source_field": "Description",
+        "quote": "Lace-up mini shorts"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "low-rise"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "short",
+        "source_field": "Title",
+        "quote": "Mini Shorts"
+      },
+      {
+        "value": "short",
+        "source_field": "Description",
+        "quote": "Lace-up mini shorts"
+      }
+    ],
+    "waistband_style": [
+      {
+        "value": "fixed",
+        "source_field": "Description",
+        "quote": "Belt loops"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 90% polyester 10% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Brown"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Title",
+        "quote": "Lydee Lace Up Mini Shorts Brown"
+      }
+    ],
+    "closure": [
+      {
+        "value": "hook_and_eye",
+        "source_field": "Description",
+        "quote": "hook & zip closure"
+      },
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "hook & zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "shorts",
+    "rise": "low",
+    "pant_length": "short",
+    "skirt_length": "unknown",
+    "leg_shape": "unknown",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "fixed"
+    ],
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "unknown",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "hook_and_eye",
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "fit",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Fit",
+        "quote": "low-rise"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    }
+  ]
+}

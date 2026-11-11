@@ -1,0 +1,140 @@
+{
+  "product_id": "10178867822676",
+  "title": "Losanna Buckle Mini Skirt Charcoal",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "d37cf8300bace26cf070f49fdaf304488ee97f0fbe5be91727c241580b4bcb7b",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:23:07.202924+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Losanna Buckle Mini Skirt Charcoal",
+    "Description": "Mini skirt in satin fabric with a tailored style\nMid -rise fit with a side zip closure and belt detail\nNon-stretch material, fully lined\nPrincess Polly Lower Impact\nMain: 95% reclaimed polyester 5%elastane, Lining: 100%polyester\nCold machine wash",
+    "Material": "Main: 95% reclaimed polyester 5%elastane, Lining: 100%polyester",
+    "Fit": "Mid Rise | Slim Fit",
+    "Color": "Charcoal"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "skirt",
+        "source_field": "Title",
+        "quote": "Losanna Buckle Mini Skirt Charcoal"
+      }
+    ],
+    "rise": [
+      {
+        "value": "mid",
+        "source_field": "Fit",
+        "quote": "Mid Rise"
+      }
+    ],
+    "skirt_length": [
+      {
+        "value": "mini",
+        "source_field": "Description",
+        "quote": "Mini skirt in satin fabric with a tailored style"
+      }
+    ],
+    "fit": [
+      {
+        "value": "slim",
+        "source_field": "Fit",
+        "quote": "Slim Fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 95% reclaimed polyester 5%elastane, Lining: 100%polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "other",
+        "source_field": "Color",
+        "quote": "Charcoal"
+      }
+    ],
+    "closure": [
+      {
+        "value": "zip",
+        "source_field": "Description",
+        "quote": "side zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "mid",
+    "pant_length": "unknown",
+    "skirt_length": "mini",
+    "leg_shape": "unknown",
+    "fit": "slim",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "unknown",
+    "color_primary": "other",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "zip"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

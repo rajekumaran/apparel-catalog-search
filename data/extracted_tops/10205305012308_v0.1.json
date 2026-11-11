@@ -1,0 +1,116 @@
+{
+  "product_id": "10205305012308",
+  "title": "Marriah Longline Faux Fur Trim Cardigan Chocolate",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "1cb4577a562e22d7f10c6432b776fb95a37980c2e7353e76c198c4d35560948e",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:20.473035+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Marriah Longline Faux Fur Trim Cardigan Chocolate",
+    "Description": "Longline faux fur trim cardigan\nGood stretch, unlined\nMain: 92% polyester 8% elastane, Fur: 100% polyester\nCold gentle machine wash",
+    "Material": "Main: 92% polyester 8% elastane, Fur: 100% polyester",
+    "Fit": "Oversized Fit",
+    "Color": "Chocolate"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "cardigan",
+        "source_field": "Title",
+        "quote": "Marriah Longline Faux Fur Trim Cardigan Chocolate"
+      }
+    ],
+    "top_length": [
+      {
+        "value": "tunic_longline",
+        "source_field": "Title",
+        "quote": "Marriah Longline Faux Fur Trim Cardigan Chocolate"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Fit",
+        "quote": "Oversized Fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 92% polyester 8% elastane, Fur: 100% polyester"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Chocolate"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "cardigan",
+    "neckline": "unknown",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "top_length": "tunic_longline",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

@@ -1,0 +1,133 @@
+{
+  "product_id": "10230865264724",
+  "title": "Settle Down Long Sleeve V Neck Top Navy",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "ba960a1b81e3d37a90f5e6d7386164a73931bc17f8b21bd34c0a82576f016cbf",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:07.582729+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Settle Down Long Sleeve V Neck Top Navy",
+    "Description": "Long sleeve v-neck top with oversized fit\nCrew neckline, drop shoulders\nNon-stretch material, unlined\n100% cotton\nCold gentle machine wash",
+    "Material": "100% cotton",
+    "Fit": "oversized fit",
+    "Color": "Navy"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "other",
+        "source_field": "Title",
+        "quote": "Long Sleeve V Neck Top"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Description",
+        "quote": "Long sleeve"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "oversized fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Navy"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "other",
+    "neckline": "unknown",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "oversized",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "no",
+    "care": "machine_washable",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "neckline",
+      "rejected_evidence": [
+        {
+          "value": "v_neck",
+          "source_field": "Title",
+          "quote": "V Neck"
+        },
+        {
+          "value": "crew",
+          "source_field": "Description",
+          "quote": "Crew neckline"
+        }
+      ],
+      "reason": "Conflicting values; attribute left unknown"
+    }
+  ]
+}

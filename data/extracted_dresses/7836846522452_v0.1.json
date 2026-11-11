@@ -1,0 +1,130 @@
+{
+  "product_id": "7836846522452",
+  "title": "Ivetta Ruched Maxi Dress Pink",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "b1fd0cb8869bab5dd9d6fb1553eca6fdc7572e129ea871f0ef6943959f03a7e0",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:33:27.613083+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Ivetta Ruched Maxi Dress Pink",
+    "Description": "Sleeveless drape maxi dress with ruched detail\nGood stretch, fully lined\nPrincess Polly Lower Impact\nMain: 90% reclaimed polyester 10% elastane, Lining: 97% polyester 3% elastane\nCold gentle machine wash\nLength of size US 2 / AU 6 shoulder to hem: 142cm / 55.9in",
+    "Material": "Main: 90% reclaimed polyester 10% elastane, Lining: 97% polyester 3% elastane",
+    "Fit": "Fitted",
+    "Color": "Pink"
+  },
+  "evidence": {
+    "dress_length": [
+      {
+        "value": "maxi",
+        "source_field": "Description",
+        "quote": "Sleeveless drape maxi dress with ruched detail"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "sleeveless",
+        "source_field": "Description",
+        "quote": "Sleeveless drape maxi dress with ruched detail"
+      }
+    ],
+    "fit": [
+      {
+        "value": "fitted",
+        "source_field": "Fit",
+        "quote": "Fitted"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 90% reclaimed polyester 10% elastane, Lining: 97% polyester 3% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch, fully lined"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "pink",
+        "source_field": "Color",
+        "quote": "Pink"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "ruched detail"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "maxi",
+    "silhouette": "unknown",
+    "neckline": "unknown",
+    "sleeve_length": "sleeveless",
+    "sleeve_style": "unknown",
+    "fit": "fitted",
+    "waist_position": "unknown",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "pink",
+    "color_secondary": "unknown",
+    "pattern": "other",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

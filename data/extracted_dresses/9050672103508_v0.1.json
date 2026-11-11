@@ -1,0 +1,161 @@
+{
+  "product_id": "9050672103508",
+  "title": "Wildah Linen Smock Maxi Dress Brown",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "ece038dfbb7f303bc888e839dc2c6ef32a33430e3d4bae8dc3a0fdfb3f11b663",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:32:51.017935+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Wildah Linen Smock Maxi Dress Brown",
+    "Description": "Linen smock maxi dress with pleat detail\nScoop neck, panelled, adjustable straps, relaxed fit\nNon-stretch material, lined bust\nPrincess Polly Lower Impact\nMain: 100% LENZING\u2122 Viscose, Lining: 100% organic cotton\nCold gentle machine wash",
+    "Material": "Main: 100% LENZING\u2122 Viscose, Lining: 100% organic cotton",
+    "Fit": "relaxed fit",
+    "Color": "Brown"
+  },
+  "evidence": {
+    "dress_length": [
+      {
+        "value": "maxi",
+        "source_field": "Title",
+        "quote": "Wildah Linen Smock Maxi Dress Brown"
+      },
+      {
+        "value": "maxi",
+        "source_field": "Description",
+        "quote": "Linen smock maxi dress with pleat detail"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "scoop",
+        "source_field": "Description",
+        "quote": "Scoop neck"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "Lining: 100% organic cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "lined bust"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Brown"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Title",
+        "quote": "Wildah Linen Smock Maxi Dress Brown"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "maxi",
+    "silhouette": "unknown",
+    "neckline": "scoop",
+    "sleeve_length": "unknown",
+    "sleeve_style": "unknown",
+    "fit": "relaxed",
+    "waist_position": "unknown",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "unknown",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "strap_style",
+      "rejected_evidence": {
+        "value": "adjustable",
+        "source_field": "Description",
+        "quote": "adjustable straps"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "fabric_type",
+      "rejected_evidence": {
+        "value": "rayon_viscose",
+        "source_field": "Material",
+        "quote": "Main: 100% LENZING\u0002174 Viscose"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "product_id": "10236794863700",
+  "title": "Good Days Graphic Relaxed Tee Blue",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "85586a320c118d5ad4dedaf9b91e6f6eb62f6529560703ac24167d68183adb82",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:21:27.461983+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Good Days Graphic Relaxed Tee Blue",
+    "Description": "Graphic baby tee with cap sleeves\nCrew neckline\nGood stretch, unlined\nPrincess Polly Lower Impact\n92% reclaimed cotton 8% elastane\nCold gentle machine wash",
+    "Material": "92% reclaimed cotton 8% elastane",
+    "Fit": "Relaxed fit",
+    "Color": "Blue"
+  },
+  "evidence": {
+    "neckline": [
+      {
+        "value": "crew",
+        "source_field": "Description",
+        "quote": "Crew neckline"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "cap",
+        "source_field": "Description",
+        "quote": "Graphic baby tee with cap sleeves"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Fit",
+        "quote": "Relaxed fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "92% reclaimed cotton 8% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "sheerness": [
+      {
+        "value": "opaque",
+        "source_field": "Description",
+        "quote": "unlined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Blue"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "unknown",
+    "neckline": "crew",
+    "sleeve_length": "cap",
+    "sleeve_style": "unknown",
+    "top_length": "unknown",
+    "hem_style": "unknown",
+    "fit": "relaxed",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "opaque",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "machine_washable",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "top_type",
+      "rejected_evidence": {
+        "value": "t_shirt",
+        "source_field": "Title",
+        "quote": "Graphic baby tee with cap sleeves"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "product_id": "10251424923732",
+  "title": "Baggy Sweatpant Black",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "7e77694ac54459e6f8b965ef959f460e724b53b5af44eb71f7cd483c0e530d1d",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:22:22.285736+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Baggy Sweatpant Black",
+    "Description": "Baggy fleece sweatpants\nElasticated waist, faux zip closure, 2 front pockets, single back pocket, American Thrift brand logo detail\nNon-stretch material, unlined\n100% cotton\nCold gentle machine wash\nFading\u00a0and distressing may vary between pieces",
+    "Material": "100% cotton",
+    "Fit": "Relaxed fit",
+    "Color": "Black"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "sweatpants",
+        "source_field": "Title",
+        "quote": "Baggy Sweatpant Black"
+      },
+      {
+        "value": "sweatpants",
+        "source_field": "Description",
+        "quote": "Baggy fleece sweatpants"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Fit",
+        "quote": "Relaxed fit"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "black",
+        "source_field": "Color",
+        "quote": "Black"
+      }
+    ],
+    "closure": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "faux zip closure"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "sweatpants",
+    "rise": "unknown",
+    "pant_length": "unknown",
+    "skirt_length": "unknown",
+    "leg_shape": "unknown",
+    "fit": "relaxed",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "black",
+    "color_secondary": "unknown",
+    "pattern": "unknown",
+    "closure": [
+      "other"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

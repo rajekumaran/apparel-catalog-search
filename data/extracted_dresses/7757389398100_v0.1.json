@@ -1,0 +1,151 @@
+{
+  "product_id": "7757389398100",
+  "title": "Melosa Long Sleeve Crochet Mini Dress White",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "a2087dcd4174045df49cae571d7aa5322a9773c7d3b48da3f6dff8f483e97e4d",
+  "taxonomy_hash": "5354d67f2e8faa15617f4dd02557f6ff222678ee2150064adfb10b1f9926a7d8",
+  "extracted_at": "2026-11-01T15:32:53.686751+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Melosa Long Sleeve Crochet Mini Dress White",
+    "Description": "Long sleeve in crochet fabric with low back design\nScoop neckline, fringe detail, flared sleeves, tie at back, relaxed fit\nNon-stretch material, unlined\n60% cotton 40% acrylic\nCold hand wash",
+    "Material": "60% cotton 40% acrylic",
+    "Fit": "relaxed fit",
+    "Color": "White"
+  },
+  "evidence": {
+    "dress_length": [
+      {
+        "value": "mini",
+        "source_field": "Title",
+        "quote": "Melosa Long Sleeve Crochet Mini Dress White"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "scoop",
+        "source_field": "Description",
+        "quote": "Scoop neckline"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "long",
+        "source_field": "Title",
+        "quote": "Melosa Long Sleeve Crochet Mini Dress White"
+      }
+    ],
+    "fit": [
+      {
+        "value": "relaxed",
+        "source_field": "Description",
+        "quote": "relaxed fit"
+      }
+    ],
+    "waist_position": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "tie at back"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "60% cotton 40% acrylic"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "white",
+        "source_field": "Color",
+        "quote": "White"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "crochet fabric"
+      }
+    ],
+    "closure": [
+      {
+        "value": "tie",
+        "source_field": "Description",
+        "quote": "tie at back"
+      }
+    ]
+  },
+  "attributes": {
+    "dress_type": "unknown",
+    "dress_length": "mini",
+    "silhouette": "unknown",
+    "neckline": "scoop",
+    "sleeve_length": "long",
+    "sleeve_style": "unknown",
+    "fit": "relaxed",
+    "waist_position": "other",
+    "waist_detail": [
+      "unknown"
+    ],
+    "skirt_construction": [
+      "unknown"
+    ],
+    "back_style": "unknown",
+    "fabric_type": "blend",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "white",
+    "color_secondary": "unknown",
+    "pattern": "other",
+    "closure": [
+      "tie"
+    ],
+    "closure_position": "unknown",
+    "hem_style": "unknown",
+    "slit_position": [
+      "unknown"
+    ],
+    "slit_height": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "strap_style": [
+      "unknown"
+    ],
+    "adjustable_straps": "unknown",
+    "pockets": "unknown",
+    "belt_included": "unknown",
+    "built_in_support": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": []
+}

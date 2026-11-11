@@ -1,0 +1,176 @@
+{
+  "product_id": "10253280051284",
+  "title": "Zenaide Lace Detail Midi Skirt Red",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "d37b17d8a62db8974926178a62a6207bd4a35ce645c8869ddca26167932c3c25",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:23:05.023637+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Zenaide Lace Detail Midi Skirt Red",
+    "Description": "Lace detail midi skirt in mid-rise fit with elasticated waist\nGood stretch, fully lined\nMain: 86% nylon 14% elastane, Lining: 95% polyester 5% elastane\nCold gentle machine wash",
+    "Material": "Main: 86% nylon 14% elastane, Lining: 95% polyester 5% elastane",
+    "Fit": "mid-rise",
+    "Color": "Red"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "skirt",
+        "source_field": "Description",
+        "quote": "Lace detail midi skirt in mid-rise fit with elasticated waist"
+      }
+    ],
+    "rise": [
+      {
+        "value": "mid",
+        "source_field": "Description",
+        "quote": "Lace detail midi skirt in mid-rise fit with elasticated waist"
+      }
+    ],
+    "skirt_length": [
+      {
+        "value": "midi",
+        "source_field": "Title",
+        "quote": "Zenaide Lace Detail Midi Skirt Red"
+      },
+      {
+        "value": "midi",
+        "source_field": "Description",
+        "quote": "Lace detail midi skirt in mid-rise fit with elasticated waist"
+      }
+    ],
+    "fit": [
+      {
+        "value": "regular",
+        "source_field": "Description",
+        "quote": "Lace detail midi skirt in mid-rise fit with elasticated waist"
+      }
+    ],
+    "waistband_style": [
+      {
+        "value": "elastic",
+        "source_field": "Description",
+        "quote": "elasticated waist"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "Main: 86% nylon 14% elastane, Lining: 95% polyester 5% elastane"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "red",
+        "source_field": "Color",
+        "quote": "Red"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Title",
+        "quote": "Zenaide Lace Detail Midi Skirt Red"
+      }
+    ],
+    "maternity": [
+      {
+        "value": "no",
+        "source_field": "Description",
+        "quote": "Lace detail midi skirt in mid-rise fit with elasticated waist"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "mid",
+    "pant_length": "unknown",
+    "skirt_length": "midi",
+    "leg_shape": "unknown",
+    "fit": "regular",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "elastic"
+    ],
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "machine_washable",
+    "color_primary": "red",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "unknown"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "no"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "bottom_type",
+      "rejected_evidence": {
+        "value": "skirt",
+        "source_field": "Title",
+        "quote": "Lace detail midi skirt in mid-rise fit with elasticated waist"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

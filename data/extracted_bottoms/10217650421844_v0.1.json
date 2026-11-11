@@ -1,0 +1,167 @@
+{
+  "product_id": "10217650421844",
+  "title": "Kimberlyn Jersey Straight Leg Pants Navy",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "1d5ea13499823812498aec897232eecf30dd87189b37ecedd957faf00e7c6f59",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:32:33.551247+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Kimberlyn Jersey Straight Leg Pants Navy",
+    "Description": "Mid-rise jersey straight-leg pants\nContrast detail, foldover waist, pocketless\nGood stretch, unlined\n96% LENZING\u2122 Ecovero 4% elastane\nCold gentle machine wash",
+    "Material": "96% LENZING\u2122 Ecovero 4% elastane",
+    "Fit": "Mid-rise",
+    "Color": "Navy"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "trousers",
+        "source_field": "Title",
+        "quote": "Kimberlyn Jersey Straight Leg Pants Navy"
+      },
+      {
+        "value": "trousers",
+        "source_field": "Description",
+        "quote": "Mid-rise jersey straight-leg pants"
+      }
+    ],
+    "rise": [
+      {
+        "value": "mid",
+        "source_field": "Description",
+        "quote": "Mid-rise jersey straight-leg pants"
+      },
+      {
+        "value": "mid",
+        "source_field": "Fit",
+        "quote": "Mid-rise"
+      }
+    ],
+    "pant_length": [
+      {
+        "value": "full_length",
+        "source_field": "Title",
+        "quote": "Kimberlyn Jersey Straight Leg Pants Navy"
+      }
+    ],
+    "leg_shape": [
+      {
+        "value": "straight",
+        "source_field": "Title",
+        "quote": "Kimberlyn Jersey Straight Leg Pants Navy"
+      },
+      {
+        "value": "straight",
+        "source_field": "Description",
+        "quote": "Mid-rise jersey straight-leg pants"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "stretchy",
+        "source_field": "Description",
+        "quote": "Good stretch"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "blue",
+        "source_field": "Color",
+        "quote": "Navy"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Description",
+        "quote": "Contrast detail, foldover waist, pocketless"
+      }
+    ],
+    "closure": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "foldover waist"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "trousers",
+    "rise": "mid",
+    "pant_length": "full_length",
+    "skirt_length": "unknown",
+    "leg_shape": "straight",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "unknown",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "blue",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "other"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "fit",
+      "rejected_evidence": {
+        "value": "unknown",
+        "source_field": "Fit",
+        "quote": "Mid-rise"
+      },
+      "reason": "Value, source field, or evidence structure violates schema"
+    },
+    {
+      "attribute": "fabric_type",
+      "rejected_evidence": {
+        "value": "blend",
+        "source_field": "Material",
+        "quote": "96% LENZING\u0002123 Ecovero 4% elastane"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

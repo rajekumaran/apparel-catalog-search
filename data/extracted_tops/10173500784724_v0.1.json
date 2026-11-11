@@ -1,0 +1,152 @@
+{
+  "product_id": "10173500784724",
+  "title": "West Coast Love Halter Top Brown Gingham",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "6d7f6c2e73a99e96f768d439a10d9ac50b2b80abf68b55ded9fd35fe1a072621",
+  "taxonomy_hash": "aff8af7b087ce4a6dd8f03705c813eb21bbc663d708c4b0a413f66370faf4281",
+  "extracted_at": "2026-11-01T15:31:30.317545+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "West Coast Love Halter Top Brown Gingham",
+    "Description": "Halter top in gingham print\nSide ruched, drop-back, tie halter, fitted, cropped\nNon-stretch material, fully lined\nPrincess Polly Lower Impact\nMain: 100% reclaimed cotton, Lining: 100% cotton\nCold gentle machine wash",
+    "Material": "Main: 100% reclaimed cotton, Lining: 100% cotton",
+    "Fit": "fitted",
+    "Color": "Brown Gingham"
+  },
+  "evidence": {
+    "top_type": [
+      {
+        "value": "tank",
+        "source_field": "Description",
+        "quote": "tie halter"
+      }
+    ],
+    "neckline": [
+      {
+        "value": "halter",
+        "source_field": "Title",
+        "quote": "Halter Top"
+      },
+      {
+        "value": "halter",
+        "source_field": "Description",
+        "quote": "tie halter"
+      }
+    ],
+    "sleeve_length": [
+      {
+        "value": "sleeveless",
+        "source_field": "Description",
+        "quote": "Halter top"
+      }
+    ],
+    "top_length": [
+      {
+        "value": "cropped",
+        "source_field": "Description",
+        "quote": "cropped"
+      }
+    ],
+    "fit": [
+      {
+        "value": "fitted",
+        "source_field": "Description",
+        "quote": "fitted"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "Main: 100% reclaimed cotton, Lining: 100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "lined": [
+      {
+        "value": "yes",
+        "source_field": "Description",
+        "quote": "fully lined"
+      }
+    ],
+    "care": [
+      {
+        "value": "machine_washable",
+        "source_field": "Description",
+        "quote": "Cold gentle machine wash"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "brown",
+        "source_field": "Color",
+        "quote": "Brown Gingham"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "plaid",
+        "source_field": "Title",
+        "quote": "Brown Gingham"
+      }
+    ]
+  },
+  "attributes": {
+    "top_type": "tank",
+    "neckline": "halter",
+    "sleeve_length": "sleeveless",
+    "sleeve_style": "unknown",
+    "top_length": "cropped",
+    "hem_style": "unknown",
+    "fit": "fitted",
+    "silhouette": "unknown",
+    "waist_style": "unknown",
+    "back_style": "unknown",
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "machine_washable",
+    "color_primary": "brown",
+    "color_secondary": "unknown",
+    "pattern": "plaid",
+    "closure": "unknown",
+    "embellishments": [
+      "unknown"
+    ],
+    "shoulder_style": "unknown",
+    "collar_type": "unknown",
+    "layering_piece": "unknown",
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "bra_friendly": "unknown",
+    "maternity_nursing": "unknown"
+  },
+  "evidence_warnings": [
+    {
+      "attribute": "top_type",
+      "rejected_evidence": {
+        "value": "tank",
+        "source_field": "Title",
+        "quote": "Halter top in gingham print"
+      },
+      "reason": "Quote is not an exact nonblank substring of the named source field"
+    }
+  ]
+}

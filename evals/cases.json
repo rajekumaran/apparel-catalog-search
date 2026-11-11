@@ -1,0 +1,138 @@
+{
+  "version": "0.1",
+  "notes": [
+    "Seed cases from observed failures, not a fully labeled relevance benchmark.",
+    "Expected IDs are known positives; other products may also be relevant.",
+    "Insufficiently reviewed cases are diagnostic only.",
+    "Live model judgments are nondeterministic; repeat runs to assess stability."
+  ],
+  "cases": [
+    {
+      "id": "unlined_shirt",
+      "query": "unlined shirt",
+      "category": "Tops",
+      "expected_ids": [
+        "10235143159892"
+      ],
+      "min_results": 1,
+      "notes": "Known positive: Dealia High V Boxy Tee White (a T-shirt). Description explicitly says \"Good stretch, unlined\" and saved lined=no. This case treats shirt broadly, including tees. Quiny 10192281763924 remains a known extraction-quality issue: its source says unlined but its saved lined attribute is unknown."
+    },
+    {
+      "id": "unlined_shirt_spaces",
+      "query": "unlined  shirt",
+      "equivalent_to": "unlined_shirt",
+      "category": "Tops",
+      "expected_ids": [
+        "10235143159892"
+      ],
+      "min_results": 1,
+      "notes": "Known positive: Dealia High V Boxy Tee White (a T-shirt). Description explicitly says \"Good stretch, unlined\" and saved lined=no. This case treats shirt broadly, including tees. Quiny 10192281763924 remains a known extraction-quality issue: its source says unlined but its saved lined attribute is unknown."
+    },
+    {
+      "id": "micro_shorts_drawstring",
+      "query": "above knee shorts with drawstring waist",
+      "category": "Bottoms",
+      "expected_ids": [
+        "10184947728468"
+      ],
+      "min_results": 1,
+      "excluded_ids": [
+        "10224167157844",
+        "10224167092308",
+        "10201459884116"
+      ],
+      "notes": "Delaynie Navy: micro boxer shorts, elasticated waist, drawstring. Hudsen hem straps do not prove drawstring waist or above-knee length."
+    },
+    {
+      "id": "drapey_shoulder",
+      "query": "drape shoulder dress",
+      "category": "Dresses",
+      "expected_any_ids": [
+        "10184924266580",
+        "10177465385044"
+      ],
+      "min_results": 1,
+      "notes": "Ellah one-shoulder drapey dresses are known candidates; wording is ambiguous."
+    },
+    {
+      "id": "unsupported_shoes",
+      "query": "wedding shoes",
+      "max_results": 0,
+      "clarification_required": true,
+      "scope": "unsupported"
+    },
+    {
+      "id": "unsupported_shoes_spaces",
+      "query": " wedding   shoes ",
+      "equivalent_to": "unsupported_shoes",
+      "max_results": 0,
+      "clarification_required": true,
+      "scope": "unsupported"
+    },
+    {
+      "id": "comfy_pants",
+      "query": "comfy pants",
+      "category": "Bottoms",
+      "forbidden_title_terms": [
+        "shorts",
+        "skirt",
+        "skort"
+      ],
+      "diagnostic_only": false,
+      "notes": "No specific positive labeled; detects wrong garment types only. Empty results alone do not establish quality."
+    },
+    {
+      "id": "wide_leg_jeans",
+      "query": "wide leg jeans",
+      "category": "Bottoms",
+      "diagnostic_only": true,
+      "notes": "Review expected positives before treating result count as correctness."
+    },
+    {
+      "id": "below_knee_shorts",
+      "query": "below knee shorts",
+      "category": "Bottoms",
+      "diagnostic_only": true,
+      "notes": "Longline alone is insufficient length evidence; no gold positives labeled."
+    },
+    {
+      "id": "price_cap",
+      "query": "dresses under $100",
+      "category": "Dresses",
+      "price_under": 100,
+      "min_results": 1
+    },
+    {
+      "id": "blue_jeans_under_100",
+      "query": "blue jeans under $100",
+      "category": "Bottoms",
+      "price_under": 100,
+      "min_results": 1,
+      "required_attributes": {
+        "bottom_type": [
+          "jeans"
+        ],
+        "color_primary": [
+          "blue"
+        ]
+      },
+      "excluded_ids": [
+        "10184947728468"
+      ],
+      "forbidden_title_terms": [
+        "shorts",
+        "skirt",
+        "skort"
+      ],
+      "notes": "Require blue jeans below USD 100. Delaynie Navy boxer shorts must not qualify. Missing required metadata fails this case; seed assertions are not comprehensive relevance labels."
+    },
+    {
+      "id": "dresses_under_100",
+      "query": "dresses under $100",
+      "category": "Dresses",
+      "price_under": 100,
+      "min_results": 1,
+      "notes": "Additional run of the price-cap query. Must return at least one dress, with every price strictly below USD 100. Verification currently has a known missing-price-input issue; this case records that regression rather than relaxing expectations."
+    }
+  ]
+}

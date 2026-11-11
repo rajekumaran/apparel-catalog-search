@@ -1,0 +1,133 @@
+{
+  "product_id": "10251424759892",
+  "title": "Fleece Baggy Jort Washed Teal",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "2168c644db1df552370ed3d6dadfe7d555fa11735670582ac7b733a2f80624fb",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-11-01T15:22:29.030445+00:00",
+  "extraction_format": "evidence-v1",
+  "source_snapshot": {
+    "Title": "Fleece Baggy Jort Washed Teal",
+    "Description": "Low-rise baggy jorts\nElasticated, twin pockets, American Thrift brand logo detail\nNon-stretch material, unlined\n100% cotton\nCold gentle machine wash\nFading\nand\ndistressing\nmay\nvary\nbetween\npieces",
+    "Material": "100% cotton",
+    "Fit": "Low-rise",
+    "Color": "Washed Teal"
+  },
+  "evidence": {
+    "bottom_type": [
+      {
+        "value": "shorts",
+        "source_field": "Description",
+        "quote": "Low-rise baggy jorts"
+      }
+    ],
+    "rise": [
+      {
+        "value": "low",
+        "source_field": "Description",
+        "quote": "Low-rise baggy jorts"
+      }
+    ],
+    "fit": [
+      {
+        "value": "oversized",
+        "source_field": "Description",
+        "quote": "Low-rise baggy jorts"
+      }
+    ],
+    "fabric_type": [
+      {
+        "value": "cotton",
+        "source_field": "Material",
+        "quote": "100% cotton"
+      }
+    ],
+    "stretch": [
+      {
+        "value": "none",
+        "source_field": "Description",
+        "quote": "Non-stretch material"
+      }
+    ],
+    "color_primary": [
+      {
+        "value": "other",
+        "source_field": "Color",
+        "quote": "Washed Teal"
+      }
+    ],
+    "pattern": [
+      {
+        "value": "solid",
+        "source_field": "Description",
+        "quote": "Low-rise baggy jorts"
+      }
+    ],
+    "closure": [
+      {
+        "value": "other",
+        "source_field": "Description",
+        "quote": "Elasticated"
+      }
+    ]
+  },
+  "attributes": {
+    "bottom_type": "shorts",
+    "rise": "low",
+    "pant_length": "unknown",
+    "skirt_length": "unknown",
+    "leg_shape": "unknown",
+    "fit": "oversized",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "cotton",
+    "stretch": "none",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "unknown",
+    "care": "unknown",
+    "color_primary": "other",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "other"
+    ],
+    "closure_position": "unknown",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  },
+  "evidence_warnings": []
+}

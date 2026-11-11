@@ -1,0 +1,67 @@
+{
+  "product_id": "10190888239188",
+  "title": "Quani Lace Midi Skirt Black Curve",
+  "taxonomy_version": "0.1",
+  "model": "gpt-4.1-mini",
+  "source_hash": "61ca189f724eb526a7caf7236eca2d681976699684e346cced5e07135e8eab7a",
+  "taxonomy_hash": "977f1f0305db7aa2680b339603391c4e93cb7b99194391a7ad1e06d22ac29f52",
+  "extracted_at": "2026-10-17T03:30:47.575869+00:00",
+  "attributes": {
+    "bottom_type": "skirt",
+    "rise": "mid",
+    "pant_length": "unknown",
+    "skirt_length": "midi",
+    "leg_shape": "unknown",
+    "fit": "unknown",
+    "skirt_silhouette": "unknown",
+    "waistband_style": [
+      "unknown"
+    ],
+    "fabric_type": "blend",
+    "stretch": "stretchy",
+    "sheerness": "unknown",
+    "fabric_weight": "unknown",
+    "texture": [
+      "unknown"
+    ],
+    "lined": "yes",
+    "care": "unknown",
+    "color_primary": "black",
+    "color_secondary": "unknown",
+    "pattern": "solid",
+    "closure": [
+      "hook_and_eye",
+      "zip"
+    ],
+    "closure_position": "side",
+    "pocket_style": [
+      "unknown"
+    ],
+    "hem_style": [
+      "unknown"
+    ],
+    "front_detail": [
+      "unknown"
+    ],
+    "slit_position": [
+      "unknown"
+    ],
+    "belt_loops": "unknown",
+    "belt_included": "unknown",
+    "denim_wash": "unknown",
+    "distressing": [
+      "unknown"
+    ],
+    "embellishments": [
+      "unknown"
+    ],
+    "occasion": [
+      "unknown"
+    ],
+    "season": "unknown",
+    "style_tags": [
+      "unknown"
+    ],
+    "maternity": "unknown"
+  }
+}
